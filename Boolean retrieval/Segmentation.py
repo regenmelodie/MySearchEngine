@@ -19,7 +19,7 @@ def segmentation(docu_set):
     return set_all_words
 
 if __name__ == '__main__':
-    folderPath = r'../dataset/testnews'
+    folderPath = r'../../dataset/testnews'
     docu_set = WRTools.get_text(folderPath)
     set_all_words = segmentation(docu_set) # 获得词汇表
     WRTools.write_vocab(set_all_words, r'./generate_data')

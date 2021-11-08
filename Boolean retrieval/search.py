@@ -1,4 +1,3 @@
-import Inverted_index
 import WRTools
 
 if __name__ == '__main__':

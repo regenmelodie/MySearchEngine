@@ -23,7 +23,7 @@ def inverted_index(docu_set, set_all_words):
     
 
 if __name__ == '__main__':
-    folderPath = r'../dataset/testnews'
+    folderPath = r'../../dataset/testnews'
     docu_set = WRTools.get_text(folderPath)
     filePath = r'./generate_data/vocabulary.txt'
     set_all_words = WRTools.get_vocab(filePath)
