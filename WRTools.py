@@ -3,7 +3,7 @@ import os
 
 # 功能：读取目录下全部txt文件
 # 输入：文件目录
-# 输出：文章集合 dict(文件名, 文件内容)
+# 返回：文章集合 dict(文件名, 文件内容)
 def get_text(folderPath):
     mytxts = dict()
     fileList = os.listdir(folderPath)
@@ -16,7 +16,7 @@ def get_text(folderPath):
 
 # 功能：读取txt并转为dict
 # 输入：txt文件目录
-# 输出：索引集合 dict(单词, list(出现该单词的文章))
+# 返回：索引集合 dict(单词, list(出现该单词的文章))
 def get_index(filePath):
     invert_index = dict()
     with open(filePath, 'r', encoding = 'utf-8') as f:
@@ -36,11 +36,34 @@ def get_index(filePath):
     # print(invert_index)
     return invert_index
 
+# 功能：读取txt并转为list
+# 输入：txt文件目录
+# 返回：词汇表 list(单词)
+def get_vocab(filePath):
+    set_all_words = list()
+    with open(filePath, 'r', encoding = 'utf-8') as f:
+        words = f.read()
+        set_all_words = words.split('\t')
+    return set_all_words
+
+
+# 功能：将list写入txt
+# 输入：词汇表 list(单词)
+# 输出：vocabulary.txt
+def write_vocab(alist, folderPath):
+    file = os.path.join(folderPath, 'vocabulary.txt')
+    alist = list(alist) # 将set转为list
+    with open(file, 'w', encoding = 'utf-8') as f:
+        s = alist[0]
+        for word in alist[1:]:
+            s = s + '\t' + word
+        f.write(s)
+
 # 功能：将dict写入txt
-# 输入：索引集合 dict(单词, list(出现该单词的文章))
-# 输出：void
-def write_dict(adict, folderPath):
-    file = os.path.join(folderPath, 'index.txt')
+# 输入：记录表 dict(单词, list(出现该单词的文章))
+# 输出：postinglist.txt
+def write_index(adict, folderPath):
+    file = os.path.join(folderPath, 'postinglist.txt')
     with open(file, 'w', encoding = 'utf-8') as f:
         for key in adict:
             s = key
