@@ -48,4 +48,4 @@ def write_dict(adict, folderPath):
                 s = s + '\t' + i
             s = s + '\n'
             f.write(s)
-    return
+
