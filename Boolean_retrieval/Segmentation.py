@@ -12,7 +12,10 @@ def seg_text(docu_set):
     for text_name in docu_set.keys():
         field = docu_set[text_name]
         split_field = jieba.cut(field) # 获得一篇文章的分词集
-        segs[text_name] = list(set(split_field))
+        set_split_field = set(split_field)
+        set_split_field.remove('\n')
+        set_split_field.remove(' ')
+        segs[text_name] = list(set_split_field)
     return segs
 
 # 功能：对所有文档做分词，获得词汇表

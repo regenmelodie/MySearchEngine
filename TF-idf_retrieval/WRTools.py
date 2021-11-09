@@ -36,15 +36,15 @@ def get_text(folderPath):
 #     # print(invert_index)
 #     return invert_index
 
-# # 功能：读取txt并转为list
-# # 输入：txt文件目录
-# # 返回：词汇表 list(单词)
-# def get_vocab(filePath):
-#     set_all_words = list()
-#     with open(filePath, 'r', encoding = 'utf-8') as f:
-#         words = f.read()
-#         set_all_words = words.split('\t')
-#     return set_all_words
+# 功能：读取txt并转为list
+# 输入：txt文件目录
+# 返回：词汇表 list(单词)
+def get_vocab(filePath):
+    set_all_words = list()
+    with open(filePath, 'r', encoding = 'utf-8') as f:
+        words = f.read()
+        set_all_words = words.split('\t')
+    return set_all_words
 
 
 # 功能：将list写入txt
