@@ -71,4 +71,3 @@ def write_index(adict, folderPath):
                 s = s + '\t' + i
             s = s + '\n'
             f.write(s)
-

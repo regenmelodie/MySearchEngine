@@ -10,9 +10,9 @@ import WRTools
 def seg_text(docu_set):
     segs = dict() # 每篇文章的分词集
     for text_name in docu_set.keys():
-        field = docu_set[text_name]
+        field = docu_set[text_name][:-2]
         split_field = seg_string(field) # 获得一篇文章的分词集
-        segs[text_name] = list(set(split_field))
+        segs[text_name] = split_field
     return segs
 
 # 功能：对字符串做分词
@@ -22,8 +22,8 @@ def seg_string(s):
     split_s = list(jieba.cut(s))
     if '\n' in split_s:
         split_s.remove('\n')
-    if ' ' in split_s:
-        split_s.remove(' ')
+    # if ' ' in split_s:
+    #     split_s.remove(' ')
     return split_s
 
 # 功能：对所有文档做分词，获得词汇表
@@ -36,7 +36,7 @@ def segmentation(docu_set):
         all_words.extend(cut)
     set_all_words = set(all_words)
     set_all_words.remove('\n')
-    set_all_words.remove(' ')
+    # set_all_words.remove(' ')
     # print(set_all_words)
     print(len(list(set_all_words)))
     return set_all_words
@@ -45,3 +45,5 @@ if __name__ == '__main__':
     docu_set = WRTools.get_text(r'../../dataset/testnews')
     set_all_words = segmentation(docu_set) # 获得词汇表
     WRTools.write_vocab(set_all_words, r'./generate_data')
+    split_texts = seg_text(docu_set) # 获得全部文章的分词集
+    WRTools.write_split_text(split_texts, r'./generate_data')

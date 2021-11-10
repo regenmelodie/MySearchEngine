@@ -14,28 +14,6 @@ def get_text(folderPath):
     # print(mytxts)
     return mytxts
 
-# # 功能：读取txt并转为dict
-# # 输入：txt文件目录
-# # 返回：索引集合 dict(单词, list(出现该单词的文章))
-# def get_index(filePath):
-#     invert_index = dict()
-#     with open(filePath, 'r', encoding = 'utf-8') as f:
-#         line = f.readline()
-#         line = line[:-1] # 去掉换行符
-#         elems = line.split('\t')
-#         key = elems[0]
-#         value = elems[1:len(elems)]
-#         invert_index[key] = value
-#         while line:
-#             line = f.readline()
-#             line = line[:-1] # 去掉换行符
-#             elems = line.split('\t')
-#             key = elems[0]
-#             value = elems[1:len(elems)]
-#             invert_index[key] = value
-#     # print(invert_index)
-#     return invert_index
-
 # 功能：读取txt并转为list
 # 输入：txt文件目录
 # 返回：词汇表 list(单词)
@@ -46,6 +24,28 @@ def get_vocab(filePath):
         set_all_words = words.split('\t')
     return set_all_words
 
+# 功能：读取txt并转为dict
+# 输入：txt文件目录
+# 返回：dict(文档名称, list(文档分词))
+def get_split_texts(filePath):
+    split_texts = dict()
+    with open(filePath, 'r', encoding = 'utf-8') as f:
+        line = f.readline()
+        line = line[:-1] # 去掉换行符
+        elems = line.split('\t')
+        key = elems[0]
+        value = elems[1:len(elems)]
+        split_texts[key] = value
+        while line:
+            line = f.readline()
+            line = line[:-1] # 去掉换行符
+            elems = line.split('\t')
+            key = elems[0]
+            if key != '':
+                value = elems[1:len(elems)]
+                split_texts[key] = value
+    # print(split_texts)
+    return split_texts
 
 # 功能：将list写入txt
 # 输入：词汇表 list(单词)
@@ -59,16 +59,15 @@ def write_vocab(alist, folderPath):
             s = s + '\t' + word
         f.write(s)
 
-# # 功能：将dict写入txt
-# # 输入：记录表 dict(单词, list(出现该单词的文章))
-# # 输出：postinglist.txt
-# def write_index(adict, folderPath):
-#     file = os.path.join(folderPath, 'test_postinglist.txt')
-#     with open(file, 'w', encoding = 'utf-8') as f:
-#         for key in adict:
-#             s = key
-#             for i in iter(adict[key]):
-#                 s = s + '\t' + i
-#             s = s + '\n'
-#             f.write(s)
-
+# 功能：将dict写入txt
+# 输入：记录表 dict(单词, list(文档分词))
+# 输出：split_texts.txt
+def write_split_text(adict, folderPath):
+    file = os.path.join(folderPath, 'test_split_texts.txt')
+    with open(file, 'w', encoding = 'utf-8') as f:
+        for key in adict:
+            s = key
+            for i in iter(adict[key]):
+                s = s + '\t' + i
+            s = s + '\n'
+            f.write(s)
