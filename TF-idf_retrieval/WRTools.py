@@ -47,6 +47,34 @@ def get_split_texts(filePath):
     # print(split_texts)
     return split_texts
 
+# # 功能：读取txt并转换为list(dict)
+# # 输入：txt文件目录
+# # 返回：list(dict)
+# def get_tfs_list(filePath):
+#     tfs_list = list()
+#     with open(filePath, 'r', encoding = 'utf-8') as f:
+#         line = f.readline()
+#         if line != '':
+#             line = line[:-1]
+#             elems = line.split('\t')
+#             tfs = dict()
+#             for i in elems:
+#                 atf = i.split(',')
+#                 tfs[atf[0]] = atf[1]
+#             tfs_list.append(tfs)
+#         while line:
+#             line = f.readline()
+#             if line != '':
+#                 line = line[:-1]
+#                 elems = line.split('\t')
+#                 tfs = dict()
+#                 for i in elems:
+#                     atf = i.split(',')
+#                     tfs[atf[0]] = atf[1]
+#                 tfs_list.append(tfs)
+#     return tfs_list
+
+
 # 功能：将list写入txt
 # 输入：词汇表 list(单词)
 # 输出：vocabulary.txt
@@ -67,7 +95,21 @@ def write_split_text(adict, folderPath):
     with open(file, 'w', encoding = 'utf-8') as f:
         for key in adict:
             s = key
-            for i in iter(adict[key]):
-                s = s + '\t' + i
+            for i in adict[key]:
+                if i != '\n':
+                    s = s + '\t' + i
             s = s + '\n'
             f.write(s)
+
+# # 功能：将list(dict)写入txt
+# # 输入：全部文档词频集合list(dict(单词, 词频))
+# # 输出：tfs.txt
+# def write_tfs(tfs_list, folderPath):
+#     file = os.path.join(folderPath, 'tfs.txt')
+#     with open(file, 'w', encoding = 'utf-8') as f:
+#         for atext_tfs in tfs_list:
+#             s = str()
+#             for key, value in atext_tfs.items():
+#                 s = s + key + ',' + str(value) + '\t'
+#             s = s[:-1] + '\n'
+#             f.write(s)

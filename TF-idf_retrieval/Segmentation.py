@@ -13,6 +13,7 @@ def seg_text(docu_set):
         field = docu_set[text_name][:-2]
         split_field = seg_string(field) # 获得一篇文章的分词集
         segs[text_name] = split_field
+    # print(len(segs))
     return segs
 
 # 功能：对字符串做分词
@@ -38,7 +39,7 @@ def segmentation(docu_set):
     set_all_words.remove('\n')
     # set_all_words.remove(' ')
     # print(set_all_words)
-    print(len(list(set_all_words)))
+    # print(len(list(set_all_words)))
     return set_all_words
 
 if __name__ == '__main__':

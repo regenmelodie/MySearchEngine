@@ -2,9 +2,10 @@
 from ctypes import _SimpleCData
 import math
 import Segmentation
-from re import split
+from re import M, split
 import pandas as pd
 import WRTools
+import numpy as np
 
 # 功能：统计词项在文档中出现的次数（词频）
 # 输入：文档分词list
@@ -19,7 +20,7 @@ def computeTF(seg):
 
 # 功能：统计全部文档的词频
 # 输入：全部文档分词dict(文件名, 文件分词内容)
-# 返回：全部文档词频集合list
+# 返回：全部文档词频集合list(dict)
 def computeTF_all(split_dict):
     tfs = list()
     for alist in split_dict.values():
@@ -65,23 +66,36 @@ def computeTFIDF_all(tfs_list, idfs):
         tfidfs.append(computeTFIDF(tf, idfs))
     return tfidfs
 
-
-
-
-# 功能：计算q与文档的相似度
+# 功能：内积计算q与文档的相似度
 # 输入：文档名称，文章和问题结合的TF-IDF列表
 # 返回：相似度dict(文档名称, 相似度)
-def similar_calc(text_name, tfidfsq):
+def inner_similar_calc(text_name, tfidfsq):
     sc_dict = dict()
     ans = pd.DataFrame(tfidfsq)
     # print('Q和文档Di的相似度SC(Q, Di) :', (ans.loc[i,:]*ans.loc[0,:]).sum())
     # 位置0是query，text从1开始
     for key, i in zip(text_name, range(1, len(tfidfsq))):
-        # print(key, (ans.loc[i,:]*ans.loc[0,:]).sum())
         sc_dict[key] = (ans.loc[i,:]*ans.loc[0,:]).sum()
     return sc_dict
 
-
-if __name__ == '__main__':
-    split_dict = WRTools.get_split_texts(r'./generate_data/split_texts.txt')
-    tfs_list = computeTF_all(split_dict) # 获得全部文档TF的dict(文件名, 词频)
+# 功能：余弦计算q与文档的相似度
+# 输入：文档名称，文章和问题结合的TF-IDF列表
+# 返回：相似度dict(文档名称, 相似度)
+def cosine_similar_calc(text_name, tfidfsq):
+    sc_dict = dict()
+    ans = pd.DataFrame(tfidfsq)
+    # print(ans)
+    for key, i in zip(text_name, range(1, len(tfidfsq))):
+        fz = (ans.loc[i,:]*ans.loc[0,:]).sum()
+        di = 0
+        q = 0
+        for dk2 in ans.loc[i].tolist():
+            if np.isnan(dk2):
+                dk2 = 0
+            di = di + math.pow(dk2, 2)
+        for qk2 in ans.loc[0].tolist():
+            if np.isnan(qk2):
+                qk2 = 0
+            q = q + math.pow(qk2, 2)
+        sc_dict[key] = fz / math.pow(di * q, 0.5)
+    return sc_dict
