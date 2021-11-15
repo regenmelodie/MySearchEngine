@@ -1,10 +1,8 @@
 # 计算文档的词项权重TF-IDF
 from ctypes import _SimpleCData
 import math
-import Segmentation
 from re import M, split
 import pandas as pd
-import WRTools
 import numpy as np
 
 # 功能：统计词项在文档中出现的次数（词频）

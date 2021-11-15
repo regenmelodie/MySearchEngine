@@ -1,0 +1,4374 @@
+账户	1001.txt
+400	101.txt
+称赞	1.txt	104.txt
+成行	107.txt
+挺	109.txt
+国	1002.txt
+爆发力	114.txt
+上调	114.txt
+谨慎	0.txt
+上海申花队	1002.txt	110.txt
+落户	103.txt
+不想	104.txt
+团结	114.txt
+摆平	100.txt
+裁员	109.txt
+搅和	0.txt
+正兴	10.txt
+刑事拘留	1003.txt
+国家	106.txt	110.txt	114.txt
+优点	1.txt
+甲	107.txt	110.txt
+之后	0.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	103.txt	104.txt	105.txt	106.txt	107.txt	11.txt	110.txt	111.txt	113.txt	114.txt
+事宜	107.txt
+拖	107.txt
+平台	10.txt
+笔者	115.txt
+打假	1003.txt
+接替	113.txt
+过场	112.txt
+面临	102.txt	107.txt	109.txt	11.txt
+检察院	1002.txt
+内向	114.txt
+授权书	101.txt
+利益均沾	1001.txt
+谢案	1003.txt
+属于	101.txt	106.txt	115.txt
+连连	104.txt
+学	110.txt
+半	105.txt	108.txt	111.txt
+副总	100.txt
+隐喻	111.txt
+结	109.txt
+市场化	110.txt
+离奇	115.txt
+与否	106.txt
+无	1002.txt	104.txt
+敏捷	112.txt
+往	1001.txt
+争冠	1001.txt
+思维	100.txt
+心切	1.txt
+赚	1001.txt	110.txt	115.txt
+好友	109.txt
+过大	105.txt
+逐渐	10.txt	105.txt	11.txt	111.txt	115.txt
+一个多月	113.txt
+小	103.txt	104.txt	109.txt	11.txt	110.txt	114.txt
+显示	0.txt	1.txt	1000.txt	111.txt
+极大	10.txt	104.txt
+击中	10.txt	104.txt
+状况	111.txt
+再出	0.txt
+头上	10.txt
+朝鲜	104.txt
+等等	111.txt
+三好学生	114.txt
+想	1.txt	10.txt	103.txt	104.txt	11.txt	110.txt	111.txt	112.txt
+解放出来	104.txt
+次	1.txt	115.txt
+唯一	1.txt
+苦	107.txt
+纠葛	106.txt
+赛后	1003.txt	104.txt	111.txt
+研究	108.txt
+心声	1.txt
+亲自	1003.txt	101.txt
+最差	100.txt
+传给	105.txt	112.txt
+宋词	101.txt	113.txt
+官哨	1001.txt
+贯穿	10.txt
+发不出	109.txt
+空挡	112.txt
+刚刚	1001.txt	1002.txt	1003.txt	104.txt	110.txt	111.txt
+态势	112.txt
+出场	104.txt	105.txt	107.txt	112.txt	114.txt
+浓	104.txt
+拼搏	114.txt
+大规模	104.txt
+阵容	105.txt	112.txt
+紧急会议	1000.txt
+怒	104.txt
+主任	1000.txt	1002.txt	1003.txt
+皮筋	10.txt
+83	112.txt
+发出	1000.txt	1001.txt	112.txt
+协查	1000.txt	1001.txt	1002.txt	1003.txt
+打偏	105.txt
+生气	104.txt
+表	1.txt
+69	105.txt
+停赛	112.txt
+两粒	111.txt
+扩大	104.txt	107.txt	112.txt
+驾车	106.txt
+一样	1.txt	100.txt	1002.txt	104.txt	107.txt	109.txt	111.txt	114.txt
+副	10.txt	1000.txt	1002.txt	1003.txt
+公然	111.txt
+短短的	104.txt
+难关	100.txt
+重点	104.txt
+厮杀	112.txt
+关	114.txt
+韩国	110.txt
+黄旭	10.txt
+跟上	112.txt
+办法	1001.txt	104.txt	107.txt
+伍兹上	11.txt
+加上	1003.txt	104.txt	111.txt
+方队	105.txt
+嘴	104.txt
+债务	106.txt
+其他	1.txt	1003.txt	106.txt	110.txt	111.txt	114.txt
+体育讯	10.txt	100.txt	101.txt	103.txt	105.txt	106.txt	107.txt	11.txt	111.txt	112.txt	113.txt	115.txt
+假球	1002.txt	115.txt
+宗旨	10.txt
+榜首	105.txt	11.txt
+保级	100.txt	1001.txt	107.txt	108.txt	112.txt
+150	1002.txt
+提升	110.txt
+不过	1002.txt	102.txt	103.txt	106.txt	107.txt	109.txt	111.txt	113.txt	114.txt
+竟然	1.txt
+失位	112.txt
+姓	1001.txt
+77	11.txt	115.txt
+不输	115.txt
+冠名	1002.txt	107.txt
+类似	102.txt	115.txt
+拾起	113.txt
+打工	107.txt
+数百名	104.txt
+严厉	114.txt
+现役	1.txt	102.txt
+看	100.txt	1003.txt	103.txt	104.txt	108.txt	109.txt	111.txt	115.txt
+猫腻	1001.txt
+窝案	1001.txt
+生	104.txt
+愈演愈烈	106.txt
+及时	11.txt	112.txt
+延吉	114.txt
+防止	102.txt
+而是	1001.txt	1002.txt	1003.txt	105.txt	114.txt
+人事	113.txt
+踢下去	109.txt	110.txt
+不如	100.txt	111.txt
+一期	114.txt
+三下	10.txt
+2003	100.txt	109.txt
+理由	1.txt
+大得	1003.txt
+值得注意	1003.txt
+早已	106.txt
+解散	109.txt
+现实	109.txt	112.txt
+提醒	111.txt
+酷哥	113.txt
+暂时	106.txt	11.txt	112.txt
+请假	114.txt
+暨首届	1003.txt
+者	115.txt
+省港杯	114.txt
+使出	104.txt
+新一届	114.txt
+知书达礼	114.txt
+学员	1001.txt
+选	104.txt
+捧得	114.txt
+三轮	113.txt
+国家足球队	1000.txt
+幌子	100.txt
+时所	1.txt
+战怡麟	105.txt
+答应	100.txt
+杜伊	1001.txt
+信息	1000.txt	1002.txt
+考验	100.txt	114.txt
+引人关注	103.txt
+惟一	1002.txt
+曹晓东	1.txt
+所以	1000.txt	1002.txt	101.txt	103.txt	104.txt	106.txt	107.txt	110.txt	114.txt	115.txt
+玫瑰	1.txt
+局面	107.txt	112.txt
+袖珍	100.txt
+占据	1.txt	105.txt
+人员	1002.txt	1003.txt
+事件	1003.txt	102.txt	106.txt
+简单	1001.txt	1002.txt
+在场	10.txt
+从后	11.txt
+尚无	107.txt
+将来	107.txt
+感受	114.txt
+传出	1001.txt	112.txt
+只要	1.txt	101.txt	111.txt
+举报	1000.txt
+急切	1003.txt
+战后	105.txt	112.txt
+微弱	115.txt
+不签	100.txt	102.txt
+出头之日	114.txt
+14	1.txt	1000.txt	103.txt	104.txt	105.txt	111.txt	113.txt
+凭借着	10.txt	114.txt
+相应	106.txt
+大山	1.txt
+派对	10.txt
+中午	1.txt	1000.txt
+冲击	1002.txt	112.txt
+尚有	102.txt
+行为	1000.txt	1001.txt	1003.txt	111.txt
+口碑	1002.txt
+上榜	103.txt
+斗志	104.txt
+不到	100.txt	102.txt	104.txt	109.txt
+吃苦耐劳	114.txt
+口中	115.txt
+骨干	102.txt
+置之不理	107.txt
+27	0.txt	10.txt
+对准	114.txt
+培养	114.txt
+各有不同	114.txt
+美巡赛	11.txt
+如数	100.txt
+22	106.txt	11.txt	112.txt
+不大	100.txt
+伴随	0.txt
+为	1.txt	10.txt	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt	104.txt	105.txt	107.txt	108.txt	109.txt	11.txt	110.txt	111.txt	112.txt	114.txt	115.txt
+倒钩	112.txt
+射门	1.txt	104.txt	105.txt	112.txt
+世锦赛	11.txt
+40%	109.txt
+另外	1001.txt	106.txt	111.txt
+嘛	104.txt	109.txt
+所要	106.txt
+美元	110.txt
+道路	110.txt	114.txt
+杨二人	1000.txt
+延迟	11.txt
+日之泉	114.txt
+警务	1003.txt
+41	112.txt
+很深	111.txt
+华堂	10.txt
+奇快	1.txt	112.txt
+不得不	107.txt	11.txt	110.txt	111.txt
+预备队	100.txt
+100	1002.txt	115.txt
+快	1.txt	112.txt
+东亚	103.txt	105.txt	110.txt	112.txt
+挣扎	11.txt
+居然	1001.txt
+获胜	1.txt	115.txt
+追上	11.txt
+防守	1.txt	104.txt	105.txt	112.txt
+何塞	108.txt
+500	110.txt
+报名费	1001.txt
+加练	114.txt
+很大	100.txt	1003.txt	102.txt	107.txt	111.txt	114.txt
+入场	104.txt
+咬牙	109.txt
+潘佳有	114.txt
+回接	112.txt
+出去	106.txt
+地方	1001.txt	1002.txt	111.txt
+计划	107.txt	112.txt
+中国队	1.txt	1001.txt
+强烈	1002.txt
+下才	1000.txt
+前不久	103.txt
+挡住	104.txt
+表达	1.txt	103.txt	104.txt	111.txt
+不太懂	110.txt
+供出	1002.txt
+外援	103.txt	104.txt	107.txt	108.txt	110.txt	111.txt
+正式	0.txt	10.txt	1000.txt	1003.txt	106.txt	108.txt
+赔付	115.txt
+实业家	110.txt
+马良行	103.txt
+吊	115.txt
+本赛季	105.txt	108.txt	112.txt
+经验	100.txt	105.txt	108.txt
+共处	109.txt
+勇气	109.txt
+反抢	105.txt
+52	105.txt
+北京市第二中级人民法院	106.txt
+一拥而上	104.txt
+捉	112.txt
+那种	100.txt	110.txt	111.txt
+蔡慧康	105.txt	112.txt
+不得了	114.txt
+对于	100.txt	1003.txt	101.txt	102.txt	103.txt	106.txt	107.txt	108.txt	110.txt	111.txt	113.txt	114.txt
+得分	104.txt
+王宝军	106.txt
+真有	115.txt
+自身	1000.txt
+片段	1.txt
+可以	1.txt	100.txt	1001.txt	1003.txt	101.txt	111.txt	114.txt	115.txt
+隋岩	101.txt
+毫无	112.txt
+幸好	0.txt	107.txt
+惩治腐败	1000.txt
+卡塔尔	1001.txt
+双双	114.txt
+短短	104.txt
+倚	104.txt	105.txt
+臧海利	107.txt
+世纪	110.txt
+努力	103.txt	111.txt	114.txt	115.txt
+体制	110.txt
+转好	0.txt
+看着	10.txt	104.txt	107.txt
+至大	112.txt
+上溯	1002.txt
+上半场	104.txt	105.txt	112.txt
+中当	114.txt
+调查	1000.txt	1001.txt	1002.txt	1003.txt
+并且	106.txt	115.txt
+甩头	105.txt
+心里有数	1.txt
+连夜	1000.txt
+为准	1001.txt
+般的	100.txt
+汗	104.txt
+二选	104.txt
+达利	10.txt
+看似	1001.txt
+今日	108.txt
+是否	10.txt	1001.txt	1002.txt	1003.txt	101.txt	110.txt	111.txt	115.txt
+每次	109.txt	114.txt
+支有	109.txt
+滋味	1.txt
+开球	111.txt
+黄牌	105.txt	112.txt
+阶段	0.txt	1.txt	100.txt	1003.txt	104.txt	105.txt	110.txt
+底气	107.txt
+森把	11.txt
+悉数	111.txt
+主帅	1.txt	1001.txt	104.txt	105.txt	110.txt	111.txt
+是从	1002.txt
+均	1.txt	112.txt
+脱不了	1001.txt
+对外	101.txt	108.txt
+以后	100.txt	105.txt	108.txt
+贪钱	1002.txt
+法院	106.txt
+原形	112.txt
+三分	105.txt	111.txt	112.txt
+同组	1.txt
+客队	115.txt
+自破	115.txt
+无辜	10.txt
+木	104.txt
+中止	0.txt
+严峻	100.txt	112.txt
+进贡	1001.txt
+原	1000.txt	111.txt	113.txt
+匪夷所思	1001.txt
+不佳	1002.txt	105.txt	109.txt	11.txt
+横	105.txt
+南勇少	1001.txt
+克星	105.txt
+加之	111.txt
+谦虚	111.txt
+知情人	1002.txt	1003.txt
+从中	112.txt
+激怒	104.txt
+养成	114.txt
+超强	114.txt
+两个	10.txt	1001.txt	104.txt	114.txt
+2006	114.txt
+香港	114.txt
+首回合	115.txt
+奔跑	104.txt
+拼得	104.txt
+是	0.txt	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt	103.txt	104.txt	105.txt	106.txt	107.txt	108.txt	109.txt	11.txt	110.txt	111.txt	112.txt	113.txt	114.txt	115.txt
+博彩	111.txt	115.txt
+想法	103.txt	110.txt
+一是	1001.txt	110.txt
+整体实力	104.txt
+给予	1.txt
+增强	1.txt
+无不	107.txt
+期间	1001.txt	101.txt
+分阶段	1003.txt
+补时	104.txt	105.txt	115.txt
+单刀	105.txt
+就此	1002.txt	1003.txt
+压力	112.txt	114.txt
+向	1.txt	10.txt	100.txt	1001.txt	101.txt	104.txt	105.txt	106.txt	109.txt	110.txt	111.txt
+典型	100.txt	1001.txt
+董雷	111.txt
+球拉出	112.txt
+失误	105.txt
+元	10.txt	100.txt	102.txt	110.txt	115.txt
+相关	1000.txt	1001.txt	1002.txt	1003.txt	103.txt
+恢复	0.txt	104.txt	11.txt
+讨论	1.txt	111.txt
+三是	1001.txt
+啥子	104.txt
+出色	105.txt	11.txt
+不见	1001.txt
+优势	1003.txt	105.txt	107.txt	112.txt	115.txt
+陈文达	113.txt
+6	0.txt	1.txt	1001.txt	1003.txt	105.txt	106.txt	11.txt	112.txt
+开车	109.txt
+中卫	104.txt	112.txt
+红牌	1003.txt	111.txt
+留下	100.txt	104.txt
+了如指掌	1.txt
+情绪	104.txt
+2.80	115.txt
+家里	114.txt
+关键	100.txt	1002.txt
+私人	1001.txt
+出	1.txt	10.txt	1001.txt	1002.txt	1003.txt	103.txt	104.txt	111.txt	112.txt
+三位	10.txt	111.txt
+气氛	10.txt
+奖金	100.txt	102.txt	107.txt	109.txt
+歉意	104.txt
+挑战	10.txt	105.txt
+食品	10.txt
+投入	100.txt	107.txt	108.txt	109.txt	111.txt
+掌门	1002.txt
+抢到	105.txt
+附近	112.txt
+估计	115.txt
+自我	114.txt
+箱后	10.txt
+对话	101.txt
+公里	114.txt
+小组	1001.txt	113.txt
+落入法网	1002.txt
+一种	1001.txt	107.txt	110.txt
+国家体育总局	1000.txt	1002.txt	1003.txt
+时任	1003.txt
+角上	105.txt
+无效	112.txt
+费用	100.txt	1001.txt	107.txt
+收尾	110.txt
+他进	114.txt
+禁止	114.txt
+万美金	1001.txt
+有时候	1001.txt
+澄	109.txt
+姚国繁	1003.txt
+第五个	109.txt
+勤奋	111.txt	114.txt
+一度	1003.txt
+场边	111.txt
+处于	107.txt
+两把	10.txt	110.txt
+然而	111.txt
+三年	110.txt
+依法	1000.txt
+九方	105.txt
+狂胜	112.txt
+等	0.txt	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	102.txt	103.txt	104.txt	106.txt	107.txt	110.txt	111.txt	114.txt	115.txt
+铝业	104.txt
+朱炯	111.txt
+催	115.txt
+邀请赛	11.txt
+控球	111.txt
+家庭	114.txt
+花儿	109.txt
+吃了亏	1.txt
+踢球	101.txt	104.txt	110.txt	111.txt	114.txt
+惹	104.txt
+潜滋暗长	1.txt
+杨一民	1001.txt	1002.txt
+后者	105.txt	112.txt
+参与	1003.txt
+武磊	105.txt	112.txt
+换下	105.txt	112.txt
+高尔夫	10.txt	11.txt
+全面	10.txt	1002.txt	108.txt
+呢	100.txt	1002.txt	104.txt	109.txt	114.txt
+下属	1000.txt
+一枚	105.txt
+条件	102.txt	110.txt
+25	0.txt	100.txt	105.txt	112.txt	115.txt
+角球	1.txt	112.txt
+学习	1002.txt
+自家	115.txt
+12000	100.txt
+进入	1001.txt	1002.txt	104.txt	105.txt	112.txt	114.txt
+顺利	102.txt	104.txt	112.txt
+情况	0.txt	100.txt	1000.txt	1002.txt	101.txt	104.txt	107.txt	11.txt	111.txt
+加油	111.txt
+第二支	109.txt
+第一	10.txt	1000.txt	1002.txt	11.txt	114.txt
+南	1000.txt	1002.txt
+联盟	1001.txt
+核对	1003.txt
+黄金	110.txt
+点失	103.txt
+丧失	1001.txt
+以此	106.txt
+成绩	10.txt	1002.txt	104.txt	107.txt	109.txt	110.txt
+64	1.txt
+便是	1003.txt
+平局	1.txt	115.txt
+21	103.txt	105.txt	106.txt	112.txt
+人士	10.txt	1001.txt	1002.txt	1003.txt	106.txt	107.txt
+发现	1.txt	103.txt	106.txt	111.txt	114.txt
+其中	100.txt	1002.txt	1003.txt	102.txt	11.txt	113.txt
+贵州	113.txt
+优秀	110.txt	111.txt
+王林	111.txt
+王刚	106.txt
+母亲	111.txt
+圆	11.txt
+喊出	110.txt
+不得而知	1002.txt
+出血	1001.txt
+起球	112.txt
+占有	109.txt
+帽子戏法	112.txt
+？	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	110.txt	113.txt	114.txt	115.txt
+分子	109.txt
+从始至终	10.txt
+局势	112.txt
+替下	105.txt
+太累	114.txt
+九宫格	10.txt
+抽出	10.txt
+音犹在	109.txt
+(	10.txt	100.txt	1000.txt	1002.txt	101.txt	102.txt	103.txt	104.txt	105.txt	106.txt	107.txt	108.txt	109.txt	11.txt	110.txt	111.txt	112.txt	113.txt	115.txt
+换岗	1002.txt
+每年	100.txt
+张锐	1000.txt
+团聚	1002.txt
+借钱	109.txt
+王博	111.txt
+湖北队	113.txt
+詹可强	111.txt
+第一件	10.txt	104.txt
+能否	10.txt	1003.txt	107.txt
+骨干力量	102.txt
+强风	11.txt
+访谈	110.txt
+再战	112.txt
+如出一辙	1000.txt
+安德森	107.txt
+立竿见影	10.txt
+奢侈品	110.txt
+电话	1000.txt	101.txt
+民营企业	109.txt
+表情	10.txt
+可能性	100.txt	1003.txt
+比如	1002.txt
+鞭策	114.txt
+锋芒	115.txt
+联赛	1002.txt	104.txt	105.txt	107.txt	110.txt	111.txt	112.txt	113.txt	114.txt	115.txt
+进行	1.txt	10.txt	1001.txt	1002.txt	1003.txt	102.txt	103.txt	105.txt	106.txt	11.txt	110.txt	111.txt	115.txt
+督战	1003.txt
+期望	114.txt
+晃过	112.txt
+献金	1001.txt
+还是	0.txt	1.txt	10.txt	100.txt	1000.txt	101.txt	102.txt	103.txt	104.txt	107.txt	108.txt	109.txt	110.txt	111.txt	113.txt
+和解	106.txt
+锯	110.txt
+热门	105.txt
+青少年	110.txt
+身心	10.txt
+表明	1001.txt	1002.txt
+咯	114.txt
+然	115.txt
+超低	115.txt
+关键球	114.txt
+新闻频道	1000.txt
+参会	1003.txt
+到来	111.txt	115.txt
+欢声笑语	10.txt
+困住	100.txt
+几天	1002.txt
+直言	103.txt	111.txt
+未作	106.txt
+还有	100.txt	1002.txt	1003.txt	105.txt	111.txt	113.txt
+一代	110.txt
+辽宁省	1002.txt
+博尔顿队	111.txt
+整肃	1000.txt
+不易	114.txt
+辽足成	100.txt
+第一轮	11.txt
+森在	11.txt
+盈方	1002.txt
+时期	110.txt
+达到	1.txt	1001.txt
+稍微	110.txt	115.txt
+庆幸	110.txt
+隋海涛	102.txt
+昨天	1002.txt	102.txt	104.txt	11.txt
+发生	1001.txt	102.txt	104.txt	106.txt	108.txt	114.txt
+放大	1.txt
+回到	114.txt
+多年	1002.txt
+不大可能	1003.txt
+内部	1000.txt	1001.txt	1002.txt
+8	1.txt	1001.txt	1002.txt	1003.txt	105.txt	106.txt	111.txt	112.txt	113.txt
+重要	0.txt	1002.txt	107.txt	110.txt
+道歉	1001.txt	104.txt
+大战	104.txt	105.txt
+客场	105.txt	109.txt	111.txt	113.txt	115.txt
+颇深	10.txt
+北京市	106.txt
+位于	11.txt
+肯定	100.txt	1001.txt	1002.txt	107.txt	108.txt	11.txt	115.txt
+推荐	114.txt
+确实	1001.txt	1003.txt	103.txt	107.txt	111.txt
+一一	104.txt
+确定	1002.txt	101.txt
+直到	1000.txt
+入主	109.txt
+全	109.txt
+天	0.txt	1.txt	1000.txt
+顾不上	106.txt
+亚洲	115.txt
+活动	10.txt
+》	1000.txt	1003.txt	114.txt
+那张	1003.txt
+摔跤	104.txt
+赚到	115.txt
+帮	110.txt	114.txt
+进球数	115.txt
+半程	107.txt
+会议室	1.txt
+或者	1003.txt	111.txt	115.txt
+矛盾	1002.txt
+情理之中	111.txt
+庸官	1002.txt
+师妹	114.txt
+证据	1002.txt	102.txt
+一系列	105.txt	106.txt	112.txt
+劲敌	1.txt
+穿着	110.txt
+他行	110.txt
+一些	1001.txt	1002.txt	1003.txt	102.txt	103.txt	108.txt	110.txt	111.txt
+逃兵	114.txt
+李冬生	1000.txt	1002.txt	1003.txt
+稍加	10.txt
+落定	10.txt
+回来	1001.txt	1002.txt
+全无	1002.txt
+暗示	1001.txt
+精彩	10.txt	105.txt	11.txt	112.txt
+平衡	1003.txt
+、	0.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt	103.txt	104.txt	105.txt	106.txt	107.txt	108.txt	109.txt	110.txt	111.txt	112.txt	113.txt	114.txt
+威逼利诱	100.txt
+强烈反抗	102.txt
+名人赛	11.txt
+依据	106.txt
+输得	114.txt
+节奏	10.txt	112.txt
+完整	100.txt
+怀疑	1002.txt
+主持	10.txt
+有没有	114.txt
+黄旭获	10.txt
+恩师	114.txt
+很	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	101.txt	102.txt	103.txt	104.txt	107.txt	108.txt	109.txt	11.txt	110.txt	111.txt	112.txt	114.txt
+此举	102.txt
+语录	110.txt
+平半	115.txt
+任期	1002.txt
+身价	110.txt
+安徽	105.txt
+强人	114.txt
+经营商	107.txt
+升级	1001.txt
+再三	114.txt
+第	1000.txt	1003.txt	104.txt	105.txt	11.txt	111.txt	112.txt	113.txt	115.txt
+可一	114.txt
+注册	100.txt	102.txt
+一支	101.txt	108.txt	109.txt	111.txt
+脚垫	112.txt
+吉隆坡	110.txt
+排名第	1.txt
+圈内	1002.txt
+案情	1002.txt	1003.txt
+专项资金	1001.txt
+定	105.txt	110.txt
+进展	1003.txt
+公信度	1002.txt
+美国队	1.txt
+众多	1001.txt	1002.txt	102.txt
+彭伟国	110.txt
+大鱼	1002.txt
+高低	1002.txt
+唐乃鑫	112.txt
+曼斯	1.txt
+核心	104.txt	106.txt	110.txt	114.txt
+被川足	104.txt
+张军	10.txt
+本人	1003.txt	101.txt
+玩起	10.txt
+怎么	100.txt	104.txt	110.txt	113.txt	114.txt	115.txt
+形成	1.txt	105.txt	110.txt	112.txt
+写	10.txt
+35	112.txt
+吴波	104.txt
+墨镜	10.txt
+滚进	10.txt
+发至	112.txt
+咱	110.txt
+互相	111.txt
+殷家	0.txt
+大骂	111.txt
+眉目	108.txt
+荷兰人	111.txt
+酒店	0.txt
+沉甸甸	1003.txt
+搜查	1002.txt
+左右	100.txt	1000.txt	1003.txt
+情景	110.txt
+亚军	114.txt
+1994	110.txt
+秘闻	115.txt
+金钱	1001.txt
+重新	103.txt	105.txt	106.txt
+一贯	104.txt
+陪同	1003.txt
+欢乐	10.txt
+谢	1002.txt
+南京队	108.txt
+那么	1003.txt	114.txt	115.txt
+逐步	1.txt
+上海队	1003.txt	110.txt
+回	1003.txt	103.txt	105.txt	112.txt
+刘成	104.txt
+耳	109.txt
+刻苦	10.txt
+父母	114.txt
+平淡	112.txt
+何志彪	1003.txt
+沈阳	0.txt	1000.txt	1001.txt	1002.txt	1003.txt	106.txt	111.txt
+忘	111.txt
+最低点	1002.txt
+一	10.txt	1001.txt	1002.txt	101.txt	103.txt	104.txt	106.txt	107.txt	109.txt	112.txt	114.txt	115.txt
+基地	110.txt
+进厂	114.txt
+日一役	1.txt
+瞄准	10.txt	103.txt
+击中目标	10.txt
+战胜	10.txt	1003.txt	105.txt	111.txt	112.txt
+零下	110.txt
+视频	10.txt
+一段	107.txt	114.txt
+坚守	109.txt
+满脸	10.txt
+反映	115.txt
+王云龙	110.txt	112.txt
+女足	0.txt	1.txt	1002.txt	1003.txt	114.txt
+申思来	103.txt
+意味着	106.txt	107.txt	115.txt
+供	1002.txt
+政府部门	110.txt
+不服输	114.txt
+弥补	104.txt	111.txt
+赵	105.txt
+出现	0.txt	10.txt	1000.txt	1001.txt	1002.txt	104.txt	108.txt	111.txt	112.txt	113.txt	115.txt
+熟悉	107.txt	108.txt	11.txt
+进一步	107.txt	11.txt
+奖项	10.txt
+锻炼身体	114.txt
+本来	1001.txt	103.txt	115.txt
+大球	115.txt
+所有	1.txt	10.txt	1003.txt	110.txt	114.txt
+秘书	100.txt
+复出	11.txt
+吗	1001.txt	101.txt	110.txt	114.txt
+可是	100.txt	105.txt	107.txt	11.txt
+突然	101.txt	111.txt	113.txt
+引进	103.txt	107.txt	110.txt	111.txt
+不懈	104.txt
+抗议	10.txt	1001.txt
+新闻	1000.txt	103.txt	108.txt	113.txt
+体育场	103.txt	111.txt
+遗留问题	106.txt
+一幕	114.txt
+客家人	114.txt
+黑娃	104.txt
+三批	110.txt
+尤为	1003.txt
+出了门	1000.txt
+无暇	10.txt
+大奖	10.txt
+打造	110.txt
+被迫	109.txt
+刑警	1003.txt
+当天	0.txt	1000.txt
+痕迹	111.txt
+贪官	1002.txt
+作为	1002.txt	106.txt	109.txt	110.txt	114.txt
+赴	1003.txt
+细数	1003.txt
+外籍	10.txt
+暴力事件	1003.txt
+非常	10.txt	100.txt	1001.txt	1002.txt	1003.txt	104.txt	105.txt	107.txt	11.txt	110.txt	111.txt	112.txt	113.txt	115.txt
+出击	112.txt
+伤病	0.txt	107.txt
+进去	1001.txt	1002.txt	1003.txt
+技术	105.txt	110.txt	111.txt	114.txt
+示意	111.txt
+保守	105.txt
+国青	1002.txt
+观点	106.txt	110.txt
+苏联	110.txt
+开成	115.txt
+体育局	1003.txt
+作秀	100.txt
+发	107.txt	109.txt
+看重	114.txt
+往年	100.txt
+化解	105.txt
+未能	10.txt
+七八名	102.txt
+张璇	10.txt
+协作	1003.txt
+空前团结	100.txt
+足球赛	1001.txt
+负有	106.txt
+上升	107.txt	111.txt
+冲甲	109.txt
+两分	113.txt
+45	103.txt	105.txt	112.txt
+那时	109.txt	114.txt
+中体	1000.txt
+代价	105.txt
+算上	1.txt	1002.txt
+朱	105.txt	111.txt	112.txt
+记得	110.txt
+呈	1002.txt
+担任	1.txt	100.txt	1001.txt	1002.txt	113.txt
+笑	104.txt
+晚上	111.txt
+啊	10.txt	100.txt	104.txt	109.txt	110.txt	114.txt
+总共	11.txt	111.txt	113.txt
+端的	105.txt
+X	1001.txt
+排除	1003.txt
+骂声	111.txt
+法律	100.txt	1000.txt	106.txt
+职能部门	1002.txt
+79	112.txt
+青睐	0.txt	114.txt
+大多	111.txt
+赵一博	105.txt
+王超	100.txt
+丁琪	112.txt
+换不上	100.txt
+主力球员	1.txt	100.txt	107.txt
+听从指挥	114.txt
+认识	11.txt
+令	102.txt
+杀入	105.txt
+落款	1003.txt
+冲亚冠	104.txt
+利益	1001.txt
+上任	107.txt
+突如其来	10.txt
+寻宝	10.txt
+市场	1002.txt
+清楚	1.txt	1002.txt	107.txt
+传球	105.txt	112.txt
+同等待遇	1002.txt
+地表	1002.txt
+姑娘	1.txt
+课后	1.txt
+起脚	105.txt	112.txt
+另一边	104.txt
+足协	100.txt	1001.txt	1002.txt	1003.txt	102.txt	103.txt
+都还没	109.txt
+最新	104.txt
+症状	0.txt
+领先者	11.txt
+欣然接受	104.txt
+客战	111.txt
+时限	102.txt
+掩盖	111.txt
+产生	1003.txt
+作风	110.txt	114.txt
+并	0.txt	1.txt	1000.txt	1002.txt	1003.txt	101.txt	105.txt	106.txt	107.txt	108.txt	110.txt	111.txt	112.txt	114.txt
+这枚	1003.txt
+当权	1001.txt
+贫寒	114.txt
+住	104.txt	105.txt
+选择	1003.txt	101.txt	102.txt	103.txt	105.txt	110.txt	111.txt
+你们	111.txt
+U16	1003.txt
+接球	112.txt
+有意	115.txt
+先	102.txt
+不会	1002.txt	103.txt	104.txt	109.txt	111.txt
+马健	10.txt
+干扰	0.txt
+见	0.txt	1001.txt
+近期	105.txt	111.txt
+开始	0.txt	10.txt	100.txt	1001.txt	1002.txt	1003.txt	104.txt	106.txt	107.txt	110.txt	112.txt	114.txt	115.txt
+录像	1.txt
+儿	107.txt
+一个	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt	104.txt	105.txt	106.txt	107.txt	11.txt	110.txt	111.txt	112.txt	114.txt	115.txt
+全力以赴	110.txt
+昔日	111.txt	113.txt
+缺口	106.txt
+拉下水	1001.txt
+经历	10.txt	1002.txt	110.txt	114.txt
+下轮	105.txt
+手眼通天	1001.txt
+幸亏	105.txt	112.txt
+投注	115.txt
+悦榕庄	11.txt
+律师	106.txt
+希望	100.txt	101.txt	103.txt	104.txt	113.txt	114.txt	115.txt
+转会	101.txt	103.txt	111.txt
+所属	1003.txt
+杆数	11.txt
+审了	1003.txt
+条款	100.txt	102.txt
+军情	1.txt
+标志	10.txt
+盘	115.txt
+挂	109.txt
+办案	1003.txt
+手推	104.txt
+用	1.txt	100.txt	1001.txt	104.txt	105.txt	111.txt	112.txt
+璇	10.txt
+两年	109.txt	114.txt
+陷入	1001.txt
+至于	1000.txt	1001.txt	1002.txt	103.txt	108.txt	110.txt
+到场	10.txt
+更好	107.txt	112.txt
+分	1.txt	105.txt	115.txt
+轮	105.txt	111.txt	112.txt	113.txt
+操纵者	1001.txt
+连排	1.txt
+欢呼	109.txt
+没想到	0.txt	106.txt
+准备	100.txt	1003.txt	106.txt	108.txt	109.txt	11.txt	110.txt	111.txt	114.txt
+瑞典队	1.txt
+瑞士	1002.txt	104.txt
+麻烦	102.txt
+旭东	105.txt
+下来	10.txt	101.txt	110.txt
+CA	11.txt
+加大	11.txt
+一座	1.txt
+崇明岛	110.txt
+火药味	104.txt
+一时	1001.txt
+助理	103.txt
+立下	110.txt
+转型	110.txt
+87	105.txt	112.txt
+使	115.txt
+卷入	1001.txt
+公安机关	1000.txt	1002.txt
+洞	10.txt	11.txt
+备选	103.txt
+那里	1001.txt	1002.txt	110.txt
+孙峰	100.txt
+一点	1001.txt	1002.txt	107.txt	111.txt	114.txt
+中前场	104.txt
+只	0.txt	10.txt	102.txt	103.txt	105.txt	11.txt	113.txt	115.txt
+截到	105.txt
+哨	115.txt
+万到	1001.txt
+入校	114.txt
+一再	10.txt
+搞定	1001.txt
+旧	103.txt	111.txt
+23	103.txt	105.txt	112.txt	113.txt
+2.20	115.txt
+抽到	10.txt
+队里	103.txt
+看来	1.txt	104.txt	112.txt
+赔率	115.txt
+骂骂咧咧	104.txt
+腿	1.txt	104.txt	112.txt
+证监会	1000.txt
+职业	1001.txt	109.txt	11.txt	110.txt
+曹	105.txt	110.txt	114.txt
+看起来	115.txt
+自行	106.txt
+下周	104.txt
+等于	1.txt
+远端	112.txt
+辉煌	110.txt
+一大	1001.txt
+一脚	104.txt	105.txt	112.txt
+孩子	114.txt
+高喊	112.txt
+不该	104.txt
+谢南	1001.txt
+当权者	1001.txt
+款项	100.txt
+感到	102.txt	107.txt	114.txt
+招	114.txt
+ 	1000.txt	1003.txt
+冲不冲	100.txt
+开会	1000.txt
+之队	1001.txt	1002.txt
+仅仅	1003.txt	11.txt	113.txt
+亮点	112.txt
+多难	109.txt
+工资单	102.txt
+非	1002.txt
+著名	1003.txt
+过半	109.txt
+3000	109.txt
+集训	110.txt	114.txt
+解围	105.txt
+“	0.txt	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	103.txt	104.txt	106.txt	107.txt	108.txt	109.txt	110.txt	111.txt	114.txt	115.txt
+可见一斑	1002.txt
+想象	1002.txt
+吸引	103.txt
+替换	104.txt	105.txt
+推不掉	110.txt
+意志品质	110.txt
+感觉	114.txt	115.txt
+不太大	102.txt
+丹	105.txt
+近距离	105.txt
+智诚队	113.txt
+求	1.txt
+出山	110.txt
+马晓旭	0.txt
+日后	102.txt
+早就	1002.txt	101.txt	107.txt
+成熟	103.txt	114.txt
+亚足联	1001.txt
+四年	1002.txt
+当地	1001.txt
+像	1.txt	103.txt	107.txt	111.txt
+代替	101.txt
+范畴	1002.txt	111.txt
+转折	1003.txt
+打造出	110.txt
+常见	111.txt
+长春亚泰	100.txt	111.txt
+着	0.txt	1.txt	10.txt	1000.txt	1001.txt	102.txt	104.txt	105.txt	107.txt	109.txt	110.txt	111.txt	112.txt	113.txt	114.txt
+左后卫	112.txt
+保护	0.txt	102.txt
+2009	100.txt	1001.txt	1002.txt	1003.txt	11.txt	114.txt
+一方面	100.txt	101.txt
+IP卡	10.txt
+川青	115.txt
+乖	114.txt
+客观	115.txt
+背道而驰	115.txt
+转身	104.txt
+13	105.txt	112.txt
+却	1.txt	10.txt	100.txt	1001.txt	102.txt	105.txt	107.txt	110.txt	111.txt	113.txt	115.txt
+收归	10.txt
+要分	10.txt
+恶性循环	110.txt
+很少	111.txt
+衣食住行	107.txt
+即使	114.txt
+江湖	115.txt
+称为	1.txt
+78	11.txt
+热身	1.txt	103.txt
+紧紧	112.txt
+1991	1.txt
+准时	105.txt	112.txt
+立案	1002.txt
+无形中	1001.txt
+而马	103.txt
+启蒙	114.txt
+传中	104.txt
+甚至	1.txt	1002.txt	1003.txt	102.txt	104.txt	109.txt	111.txt	115.txt
+周围	10.txt
+又	0.txt	100.txt	1000.txt	1001.txt	103.txt	105.txt	107.txt	109.txt	11.txt	111.txt	114.txt
+完成	1.txt	100.txt	1001.txt	1002.txt	102.txt	103.txt	107.txt	112.txt
+年	1.txt	100.txt	1001.txt	1002.txt	1003.txt	102.txt	103.txt	106.txt	109.txt	11.txt	110.txt	114.txt
+否则	1002.txt
+更加	110.txt
+部	1002.txt
+举个	110.txt
+说起	114.txt
+尹鸿博	114.txt
+中超联赛	1002.txt	104.txt
+批评	107.txt
+内情	107.txt
+前身	109.txt
+外界	1.txt	1000.txt	1001.txt	1003.txt	111.txt
+先过	114.txt
+宏登队	108.txt	109.txt
+分组	1.txt
+单	105.txt
+于洋	110.txt
+这支	101.txt	109.txt	110.txt	111.txt	114.txt
+后防	111.txt	114.txt
+有点	114.txt
+的确	103.txt
+怎么样	107.txt	110.txt
+为何	101.txt
+到宏登	108.txt
+四川	104.txt	112.txt	115.txt
+仅仅只是	1000.txt
+所在	111.txt
+部位	105.txt
+竟有	1002.txt
+地清换	106.txt
+询问	1002.txt
+倒金字塔	1002.txt
+一声不响	10.txt
+迈进	110.txt
+除了	1.txt	1001.txt	1002.txt	1003.txt	102.txt	111.txt
+大门	105.txt	107.txt
+这堂	1.txt
+优胜	10.txt
+老板	100.txt	106.txt	107.txt	108.txt	109.txt	111.txt
+出任	104.txt	113.txt
+指挥官	114.txt
+就	0.txt	1.txt	10.txt	100.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt	103.txt	104.txt	106.txt	107.txt	108.txt	109.txt	110.txt	111.txt	112.txt	113.txt	114.txt	115.txt
+披露	1002.txt	106.txt
+文化	114.txt
+证明	1003.txt	101.txt	110.txt
+38	105.txt	112.txt
+分数	1001.txt
+鼎立	10.txt
+义正词严	1001.txt
+这时候	115.txt
+成型	1.txt
+剩下	10.txt	106.txt
+赚点	107.txt
+闪电	101.txt
+关联	115.txt
+有个	103.txt
+要员	1001.txt
+观战	111.txt
+长期	10.txt	102.txt
+假	1000.txt
+涉案	1000.txt	1002.txt
+青年	105.txt	114.txt
+指导	10.txt	103.txt	111.txt	114.txt
+王茂俊	104.txt
+安抚	107.txt
+一股劲	110.txt
+随之	100.txt
+谈	103.txt
+假赌	1003.txt
+门	104.txt
+陷	115.txt
+应对	107.txt
+报复	1002.txt	111.txt
+或	102.txt
+喜爱	104.txt
+愠	105.txt
+昭示	1002.txt
+爆发	100.txt	104.txt
+技术部	1002.txt
+攻心	1002.txt
+如愿	1003.txt
+奥运	0.txt	1.txt
+解决	100.txt
+上爬	104.txt
+两者	110.txt
+办案人	1003.txt
+到川足	104.txt
+力不从心	107.txt
+实现	115.txt
+一周	0.txt	11.txt	111.txt
+一切	1001.txt	106.txt	107.txt
+本是	104.txt
+洞开	11.txt
+3.5	115.txt
+天气	0.txt
+沈祥福	110.txt
+问心无愧	101.txt
+发动	1.txt	112.txt
+无奈	0.txt	10.txt	111.txt
+高尔夫球	10.txt
+足球圈	1003.txt	109.txt
+早有	106.txt
+盘口	111.txt	115.txt
+五	104.txt
+重返	1001.txt
+开	109.txt	115.txt
+来说	0.txt	100.txt	1002.txt	114.txt
+披上	114.txt
+高	1.txt	107.txt	112.txt	114.txt	115.txt
+张忠强	109.txt
+会心	10.txt
+赶往	1000.txt
+领队	1000.txt	1001.txt	113.txt
+中瑞	1.txt
+张亮	1001.txt
+看守所	1002.txt
+角色	1002.txt	113.txt
+决心	103.txt
+7	0.txt	1.txt	1001.txt	1003.txt	105.txt	112.txt	113.txt
+Lai	10.txt
+正常	1003.txt	104.txt	107.txt	115.txt
+仰天长叹	10.txt
+沪	103.txt
+迟早	109.txt
+本次	101.txt
+无缘	0.txt
+点评	1.txt
+0.32	115.txt
+权利	106.txt
+完全	1.txt	10.txt	1002.txt	111.txt
+打成	115.txt
+体操	10.txt
+发起	10.txt	105.txt
+符合	100.txt
+委派	1001.txt
+偏	105.txt
+3	1.txt	1000.txt	1001.txt	1003.txt	102.txt	103.txt	104.txt	109.txt	11.txt	112.txt	113.txt	114.txt	115.txt
+带领	107.txt	111.txt
+一目了然	1.txt
+制约	107.txt
+算了	109.txt
+第五	113.txt
+内幕	103.txt
+高夫	10.txt
+阴谋	100.txt
+包内	10.txt
+良好	105.txt	114.txt
+分解	1.txt
+第六名	11.txt
+身影	111.txt
+西班牙人	108.txt
+明摆着	100.txt
+怒射	112.txt
+中国女足	1.txt
+随着	1002.txt	105.txt
+知道	1.txt	100.txt	1001.txt	1002.txt	101.txt	103.txt	110.txt	111.txt	114.txt
+说	0.txt	1.txt	10.txt	100.txt	1002.txt	1003.txt	101.txt	103.txt	104.txt	106.txt	107.txt	108.txt	109.txt	110.txt	111.txt	114.txt
+90	10.txt	105.txt	115.txt
+拉开	11.txt
+迎来	112.txt
+迷茫	100.txt
+毛嘉康	112.txt
+烦恼	104.txt
+贾在	1001.txt
+队	10.txt	100.txt	1003.txt	103.txt	104.txt	105.txt	106.txt	107.txt	109.txt	110.txt	112.txt	113.txt	114.txt
+欠条	100.txt
+中是	114.txt
+名人	10.txt
+小组赛	1.txt	113.txt
+仍然	10.txt	1002.txt	102.txt	109.txt	112.txt
+恐怕	102.txt
+放松	10.txt	112.txt	114.txt
+亲信	1002.txt
+无人	105.txt
+毫无意义	111.txt
+队多箭	112.txt
+嫌	115.txt
+未来	108.txt	109.txt	110.txt	114.txt
+也就是说	100.txt	11.txt
+终场	111.txt
+成长	114.txt
+暂	11.txt
+宁波	113.txt
+赔偿金	106.txt
+张军拔	10.txt
+中高层	1002.txt
+课上	1.txt
+转让	106.txt	109.txt
+送给	1001.txt
+公开赛	11.txt
+羁押	1002.txt
+场面	100.txt	104.txt	111.txt	112.txt	115.txt
+选手	11.txt
+政府	110.txt
+王佳玉	105.txt	110.txt	112.txt
+不止	1.txt	114.txt
+位置	0.txt	1001.txt	1002.txt	104.txt	105.txt	106.txt	107.txt	108.txt	11.txt	110.txt	112.txt	114.txt
+债	100.txt
+团长	1002.txt
+前场	1.txt	105.txt	112.txt
+上轮	105.txt	112.txt
+前门	110.txt
+高举	10.txt
+真正	1.txt	100.txt	1002.txt	101.txt	110.txt	115.txt
+诸云飞	104.txt
+养家糊口	107.txt
+傅亚雨	0.txt
+大权	1001.txt
+走上台	10.txt
+双方	1.txt	1003.txt	103.txt	104.txt	105.txt	106.txt	11.txt	111.txt	112.txt	115.txt
+董阳	103.txt	111.txt
+健身	107.txt
+听到	10.txt
+知情	1000.txt	1001.txt	1002.txt	1003.txt
+功劳	1003.txt
+说些	110.txt
+牵扯	1001.txt
+风波	100.txt	104.txt
+名利	114.txt
+得以	104.txt
+队中	114.txt
+以前	10.txt
+金额	1001.txt	1002.txt
+松日	110.txt
+入选	114.txt
+爱之深	114.txt
+孙建宏	105.txt
+碰到	0.txt
+队伍	0.txt	1.txt	1001.txt	107.txt	111.txt	112.txt
+大呼	104.txt
+欧洲联盟	101.txt
+针对	1.txt	1001.txt	103.txt	106.txt
+一边	10.txt
+标价	1001.txt
+年来	109.txt
+另有	1001.txt
+眉开眼笑	104.txt
+事儿	1003.txt	107.txt
+面对	10.txt	105.txt	107.txt	109.txt	111.txt	112.txt
+提问	1001.txt
+责之切	114.txt
+上风	1.txt
+控制	0.txt	10.txt	104.txt	107.txt
+坐在	10.txt	104.txt	106.txt
+患上	0.txt
+党委书记	1002.txt
+第一项	1001.txt
+大雪	1003.txt
+腾彬时	104.txt
+第一场	11.txt	113.txt
+交流	10.txt
+环节	10.txt
+收受	1001.txt	1002.txt
+精妙	105.txt	112.txt
+复仇	1.txt
+突出	1002.txt	114.txt
+申请	106.txt
+诡异	115.txt
+叶伟超	114.txt
+已有	104.txt
+大球者	115.txt
+赢球	111.txt
+胜	1.txt
+成为	1.txt	10.txt	1002.txt	110.txt	114.txt
+方向	10.txt
+纷纷	10.txt
+当中	1.txt	100.txt	104.txt	107.txt	108.txt
+结论	1003.txt
+帮不了	102.txt
+总是	114.txt
+39	112.txt
+为什么	1002.txt	113.txt
+收购	108.txt
+不利	109.txt
+之作	110.txt
+商瑞华	1.txt
+魏群	104.txt	110.txt
+老	1001.txt
+恐怖	1.txt
+才行	104.txt
+立刻	10.txt	101.txt	114.txt
+表面	100.txt
+练	107.txt	114.txt
+高级	1002.txt	1003.txt
+墨西哥	11.txt
+预备党员	114.txt
+查证	1001.txt
+第二张	105.txt
+首度	114.txt
+成功	100.txt	103.txt	109.txt	110.txt
+气质	110.txt
+基的	1.txt
+尼	11.txt
+四个	115.txt
+我花	109.txt
+爱	114.txt
+反赌	1003.txt
+尤其	1.txt	1002.txt	111.txt
+世界冠军	10.txt
+专职	1002.txt
+揭秘	1000.txt
+采取	105.txt	112.txt
+中方	1001.txt
+队则	105.txt
+松懈	112.txt
+叫声	114.txt
+据	1001.txt	1002.txt	1003.txt	102.txt	106.txt	113.txt
+盼到	105.txt
+顶上	104.txt
+公关	100.txt
+颇费周折	1001.txt
+以	100.txt	1001.txt	1002.txt	1003.txt	104.txt	105.txt	107.txt	11.txt	111.txt	112.txt	113.txt
+国内	1001.txt	101.txt	110.txt
+晋身	114.txt
+爆料	1003.txt
+真想	100.txt
+当场	109.txt
+第一次	10.txt	1002.txt	104.txt	11.txt	110.txt	112.txt	113.txt	114.txt
+违纪行为	106.txt
+担当	10.txt	105.txt
+张旭	109.txt
+出现意外	0.txt
+道	1001.txt
+上前	10.txt	112.txt
+开导	114.txt
+只能	100.txt	101.txt	102.txt	104.txt	105.txt	112.txt	114.txt	115.txt
+梁录	104.txt
+沟通	106.txt
+把守	107.txt
+把握	114.txt
+严正	1001.txt
+来自	1000.txt	102.txt	114.txt
+保证	0.txt	106.txt	107.txt	109.txt
+递减	1002.txt
+一分钱	109.txt
+200	1002.txt	109.txt
+小姑娘	10.txt
+人品	114.txt
+两天	0.txt
+多次	100.txt	105.txt	106.txt
+圈钱	1001.txt
+08	1001.txt
+哭	109.txt
+展开	105.txt
+战绩	1.txt	115.txt
+任上	1001.txt
+再次	1.txt	103.txt	105.txt	111.txt	112.txt
+进	1.txt	10.txt	1001.txt	112.txt	115.txt
+吸取教训	104.txt	114.txt
+第七	11.txt
+潘父	114.txt
+和旭子	109.txt
+坦诚	100.txt
+渊源	111.txt
+合适	1001.txt
+中有	1003.txt
+几年	1001.txt
+72	1.txt
+撤回	106.txt
+个性	110.txt
+胜利	105.txt	11.txt	111.txt	113.txt	114.txt
+掏	1001.txt
+情形	109.txt
+纠缠	106.txt
+吕文君	105.txt	112.txt
+派出	1001.txt	111.txt
+主裁	104.txt
+呼机	110.txt
+寥寥无几	115.txt
+越来越	1.txt	108.txt	112.txt
+要	0.txt	1.txt	100.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt	103.txt	104.txt	106.txt	107.txt	109.txt	11.txt	110.txt	111.txt	113.txt	114.txt
+深圳	114.txt
+溃败	1.txt
+截后	1.txt
+好转	11.txt
+截止	10.txt	102.txt	103.txt
+受到	0.txt	106.txt	107.txt	114.txt
+甲级	109.txt
+提	110.txt
+漂亮	104.txt
+说句实话	109.txt
+主裁判	1001.txt	1003.txt	105.txt	111.txt	112.txt
+战袍	114.txt
+淘汰	1.txt	11.txt
+官员	1001.txt	102.txt
+带到	1000.txt	109.txt
+异	114.txt
+冲	10.txt	100.txt
+以球	10.txt
+夫杯	1.txt
+--	10.txt	103.txt
+源深	103.txt	111.txt
+逼抢	1.txt
+恐惧	1.txt
+探讨	107.txt	115.txt
+其余	10.txt
+找	1001.txt	104.txt	110.txt	114.txt
+不好	109.txt	111.txt	114.txt
+胡妮	10.txt
+五五开	103.txt
+15	1.txt	1001.txt	105.txt	112.txt	114.txt	115.txt
+瓦姆	1.txt
+对方	1.txt	10.txt	1001.txt	101.txt	104.txt	105.txt	111.txt
+心得	110.txt
+24	100.txt	105.txt	112.txt
+三人	10.txt	1002.txt
+定期	107.txt
+边线	104.txt
+不解	0.txt
+U20	1003.txt
+黑色	1002.txt	110.txt
+莱德	10.txt
+月	0.txt	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	103.txt	105.txt	106.txt	11.txt	111.txt	112.txt	113.txt	114.txt	115.txt
+商人	110.txt
+顺势	104.txt
+全运队	114.txt
+李树斌	100.txt
+动作	0.txt	1.txt	104.txt	105.txt	112.txt
+新人	11.txt
+提审	1003.txt
+性格开朗	114.txt
+地面	110.txt
+启动	10.txt	103.txt	110.txt
+博尔顿	111.txt
+海埂	100.txt	110.txt
+哪里	100.txt	1003.txt	110.txt
+时隔	1001.txt	103.txt	106.txt
+人们	1003.txt	11.txt
+智谷队	112.txt
+不爱	114.txt
+明年	103.txt	107.txt	108.txt
+白条	102.txt
+U18	1003.txt
+教练	1.txt	10.txt	100.txt	1001.txt	102.txt	103.txt	104.txt	110.txt	111.txt	114.txt
+搞	10.txt	110.txt
+提高	100.txt	103.txt	111.txt	114.txt
+反正	1.txt
+吹响	104.txt	112.txt
+深有体会	114.txt
+朝	104.txt
+选用	10.txt
+后场	104.txt
+就行	114.txt
+背后	104.txt	112.txt
+9	1000.txt	1001.txt	1003.txt	105.txt	106.txt	115.txt
+总局	1000.txt	1001.txt	1003.txt
+了解	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt	106.txt	110.txt	113.txt
+谭光	1001.txt
+超回	112.txt
+告知	1003.txt
+半年	1002.txt	109.txt
+锐减	100.txt
+股东	106.txt
+第三名	110.txt
+风	11.txt
+说出	101.txt
+之泉	114.txt
+冲向	10.txt	104.txt
+有趣	1001.txt
+潘佳	114.txt
+征战	1001.txt	114.txt
+速度	1.txt
+教鞭	110.txt	113.txt
+拿	1.txt	100.txt	102.txt	104.txt	107.txt	109.txt	110.txt	111.txt	112.txt
+专业	110.txt	114.txt
+夺得	110.txt
+殷鹏	104.txt
+攻破	105.txt	112.txt
+浦玮	1.txt
+左路	112.txt
+直奔	112.txt
+无论	109.txt	115.txt
+邢傲伟	10.txt
+小企业	109.txt
+2500	110.txt
+PK	10.txt
+一脸	10.txt
+精心	1.txt
+让	0.txt	1.txt	10.txt	1001.txt	1002.txt	1003.txt	104.txt	105.txt	109.txt	110.txt	111.txt	114.txt	115.txt
+队武磊	105.txt
+俱乐部	10.txt	100.txt	1001.txt	1002.txt	101.txt	102.txt	103.txt	104.txt	106.txt	107.txt	108.txt	109.txt	11.txt	110.txt	113.txt
+但史亮	114.txt
+但黎兵	104.txt
+多少	1002.txt	107.txt	110.txt
+耽误	114.txt
+现场	1.txt	10.txt	1003.txt	104.txt	111.txt	112.txt	115.txt
+反	1002.txt	1003.txt	112.txt
+姜晓宇	104.txt
+姿态	10.txt	107.txt
+主席	1000.txt	1001.txt	1002.txt	1003.txt
+本报记者	1003.txt	109.txt	114.txt
+‘	1000.txt	109.txt
+语言所	104.txt
+好	0.txt	1.txt	10.txt	103.txt	104.txt	105.txt	107.txt	108.txt	110.txt	111.txt	112.txt	114.txt
+解释	103.txt
+∶	1003.txt
+劳动局	106.txt
+挥剑	110.txt
+强	1.txt
+难倒	104.txt
+拳头	104.txt
+而且	0.txt	1001.txt	1002.txt	104.txt	106.txt	107.txt	113.txt	114.txt
+放在	0.txt	112.txt	114.txt
+后发制人	112.txt
+教练席	104.txt	111.txt
+点击	1001.txt
+怕	114.txt
+巩固	107.txt
+唐海	112.txt
+如此	10.txt	1002.txt	101.txt	102.txt	114.txt	115.txt
+危险	109.txt
+投票	1003.txt
+几百人	111.txt
+将会	1000.txt
+四人	114.txt
+北京理工	107.txt
+上弹	112.txt
+陆续	102.txt
+付出	105.txt
+进进出出	1001.txt
+一声	1000.txt	109.txt
+向上	114.txt
+不能	0.txt	1.txt	101.txt	110.txt
+通告	1000.txt
+新的一页	114.txt
+高峰	110.txt
+资金投入	107.txt
+威胁	1.txt	105.txt
+普遍	1001.txt	102.txt	111.txt
+网上	105.txt
+秉承	10.txt
+低	111.txt	115.txt
+鸣锣	112.txt
+王丽萍	10.txt
+挥手	104.txt
+一个个	10.txt
+程鹏辉	100.txt
+不敢	1002.txt	111.txt
+信念	114.txt
+得知	1001.txt	101.txt
+罪状	1001.txt
+一万块	100.txt
+李毅男	111.txt
+火爆	104.txt
+球偏	105.txt
+讲	114.txt
+新任	108.txt	109.txt
+这是	1.txt	100.txt	1000.txt	1003.txt	103.txt	113.txt	114.txt
+冲突	104.txt	111.txt
+昨天中午	1.txt
+连败	1.txt
+吃惊	1003.txt
+获得	1.txt	1001.txt	1002.txt	105.txt	11.txt	110.txt	112.txt	114.txt
+培训费	1001.txt
+不高	110.txt
+管理	100.txt	1001.txt	108.txt	110.txt
+得	1.txt	10.txt	100.txt	103.txt	104.txt	105.txt	107.txt	109.txt	113.txt	114.txt
+前半段	112.txt
+之	1000.txt	1001.txt	1002.txt
+领导	1000.txt	1001.txt	103.txt	110.txt	114.txt
+只争朝夕	110.txt
+换	1000.txt	110.txt
+全运会	1001.txt	1003.txt	105.txt	110.txt	114.txt
+布佐	1001.txt
+说法	100.txt	1001.txt	1002.txt	1003.txt	102.txt
+喜获	10.txt
+第八轮	105.txt
+不知情	1000.txt
+办	107.txt
+足够	111.txt
+曝	1001.txt
+孔德	104.txt
+重要讲话	1003.txt
+可能	1.txt	100.txt	1000.txt	1001.txt	1002.txt	101.txt	104.txt	106.txt	107.txt	11.txt	110.txt	114.txt
+身份	1002.txt
+名	104.txt	11.txt
+之久	110.txt
+对此	106.txt	111.txt	114.txt
+国外	101.txt	110.txt
+辽宁队	102.txt
+心态	107.txt	112.txt
+就练	114.txt
+公司	10.txt	109.txt	111.txt	115.txt
+实在	100.txt	1001.txt	109.txt	114.txt	115.txt
+复制	1000.txt
+20	1.txt	100.txt	103.txt	104.txt	105.txt	110.txt	112.txt
+阿里	111.txt
+预言	112.txt
+日之泉队	114.txt
+棘手	100.txt
+吉祥	110.txt
+财政状况	113.txt
+到底	106.txt
+点球	112.txt
+网站	1000.txt	1003.txt
+为了	0.txt	1001.txt	102.txt	114.txt
+史亮	114.txt
+蒂斯	11.txt
+尴尬	10.txt	113.txt	115.txt
+谢菲联	104.txt
+姜至鹏	105.txt
+大	100.txt	1002.txt	1003.txt	106.txt	107.txt	110.txt	111.txt	112.txt	113.txt	114.txt	115.txt
+声明	1000.txt
+主要	0.txt	1001.txt	102.txt	103.txt	108.txt
+侧面	1002.txt
+深厚	109.txt
+血本	1001.txt
+帮助	110.txt	113.txt	114.txt
+从没	112.txt	114.txt
+钱	100.txt	1002.txt	107.txt	109.txt	110.txt	115.txt
+兼	103.txt	113.txt
+不是	0.txt	1001.txt	1002.txt	1003.txt	106.txt	107.txt	11.txt	110.txt	111.txt	112.txt	114.txt
+高出	105.txt	112.txt
+例子	0.txt	110.txt
+积分榜	107.txt	113.txt
+夺冠	1001.txt	1003.txt	110.txt
+打击	11.txt
+让出	10.txt
+曝光	107.txt
+迅速	10.txt	101.txt
+10	0.txt	10.txt	1000.txt	1001.txt	1003.txt	105.txt	108.txt	111.txt	112.txt	114.txt
+拒签	100.txt	102.txt
+魁梧	114.txt
+郝强	105.txt
+此事	106.txt	107.txt
+心中	1.txt
+索要	100.txt
+大幅度	1002.txt
+羡慕	111.txt
+脚踢	104.txt
+心里	111.txt
+杀手	1.txt
+具有	104.txt
+信仰	109.txt
+上半	111.txt
+证据确凿	1000.txt
+看不到	114.txt
+受凉	0.txt
+然后	1001.txt	103.txt
+申花	103.txt	110.txt	111.txt
+1999	100.txt
+意义	101.txt
+16	1000.txt	1003.txt	105.txt
+渐	104.txt
+翻	110.txt
+精力	112.txt
+射将球	112.txt
+依然	0.txt	106.txt	107.txt	112.txt
+上	1.txt	10.txt	100.txt	1001.txt	1002.txt	101.txt	102.txt	103.txt	104.txt	105.txt	106.txt	107.txt	109.txt	11.txt	110.txt	111.txt	112.txt	114.txt	115.txt
+国字号	1001.txt	1002.txt	1003.txt	114.txt
+刘大伟	109.txt
+学生	114.txt
+频现	115.txt
+意思	0.txt	1001.txt	111.txt
+让给	114.txt
+这次	1.txt	100.txt	101.txt	107.txt	109.txt	110.txt	111.txt	112.txt
+工资	100.txt	102.txt	106.txt	107.txt	109.txt
+绝不	1000.txt	1003.txt
+肇俊哲	102.txt
+至少	109.txt
+尽心尽力	113.txt
+拍	109.txt
+底	100.txt
+阳光	104.txt	114.txt
+一次	1.txt	10.txt	104.txt	105.txt	109.txt	110.txt	114.txt
+刚	104.txt	105.txt	112.txt
+问题	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	102.txt	103.txt	104.txt	106.txt	107.txt	111.txt	113.txt
+可爱	107.txt
+运作	101.txt
+星期四	11.txt
+令人	104.txt
+一步	102.txt
+瓦洛佳	110.txt
+品质	114.txt
+答案	1000.txt
+引起	1001.txt	111.txt	113.txt
+巨大	1001.txt	103.txt	106.txt
+不火	105.txt
+精英赛	11.txt
+交锋	1.txt	104.txt
+怎么办	1.txt
+文静	10.txt
+关爱	10.txt
+执教	110.txt	111.txt	113.txt
+困难	100.txt	102.txt	108.txt	109.txt
+体校	114.txt
+主教练	100.txt	1001.txt	1002.txt	103.txt	107.txt	110.txt	111.txt	113.txt	114.txt
+打开	105.txt
+训练场	0.txt	114.txt
+强大	1.txt
+花	107.txt	110.txt
+■	110.txt
+制造	1002.txt
+一直	0.txt	10.txt	100.txt	1000.txt	1002.txt	102.txt	104.txt	106.txt	110.txt	111.txt	114.txt
+几场	105.txt
+这份	1.txt	113.txt
+据说	100.txt	1001.txt	107.txt	111.txt
+用力	104.txt
+感冒	0.txt	107.txt
+撕破	105.txt
+握手	104.txt
+左侧	105.txt
+球场	1003.txt	105.txt
+服务员	100.txt
+但	0.txt	1.txt	100.txt	1000.txt	1002.txt	1003.txt	101.txt	102.txt	104.txt	105.txt	106.txt	107.txt	108.txt	109.txt	110.txt	112.txt	113.txt	114.txt	115.txt
+易地	105.txt	112.txt
+穿	114.txt
+排出	105.txt
+决赛	1002.txt	1003.txt
+到	0.txt	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	105.txt	106.txt	107.txt	109.txt	11.txt	110.txt	112.txt	113.txt	114.txt	115.txt
+赛季	100.txt	102.txt	103.txt	104.txt	108.txt	11.txt	111.txt
+声	112.txt
+训练	0.txt	1.txt	10.txt	103.txt	106.txt	107.txt	110.txt	111.txt	114.txt
+高水平	103.txt
+变得	0.txt	112.txt	114.txt
+我会	104.txt	114.txt
+草签	101.txt
+好好	104.txt	113.txt
+郝海东	110.txt
+志在	111.txt
+不料	113.txt
+栏杆	110.txt
+大侠	104.txt
+脚伤	107.txt
+超高	115.txt
+服输	109.txt
+第二点	112.txt
+岁	1.txt	100.txt	104.txt	114.txt
+过程	1.txt	1003.txt	111.txt	114.txt
+远射	1.txt	105.txt
+因为	1.txt	100.txt	1000.txt	1002.txt	1003.txt	101.txt	103.txt	105.txt	107.txt	11.txt	110.txt	113.txt	114.txt
+不足	1.txt	104.txt
+当年	100.txt	106.txt	110.txt
+错失	112.txt
+角度	115.txt
+确是	105.txt
+平和	107.txt
+之王	10.txt
+在	0.txt	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt	103.txt	104.txt	105.txt	106.txt	107.txt	108.txt	109.txt	11.txt	110.txt	111.txt	112.txt	113.txt	114.txt	115.txt
+创造	1001.txt
+拘留	1003.txt
+疾病	0.txt
+自从	110.txt	114.txt
+曹氏	106.txt
+决定	0.txt	103.txt	113.txt	114.txt
+并作	1003.txt
+水位	115.txt
+杀伤	105.txt
+总会	100.txt
+做文章	1.txt
+顶进	112.txt
+打破	1003.txt
+冠军	10.txt	1003.txt	107.txt	11.txt	110.txt
+朱炯赞	111.txt
+职务	1002.txt	113.txt
+透	1002.txt
+回忆	114.txt
+功夫	104.txt
+受让	115.txt
+再犯	104.txt
+许多	11.txt	114.txt
+十年	110.txt
+打高	105.txt
+无心	112.txt
+受	106.txt	114.txt
+走上	114.txt
+长大	104.txt	114.txt
+家门	115.txt
+一旁	10.txt
+女子	1002.txt
+渴望	1.txt	111.txt
+似乎	100.txt	106.txt	115.txt
+坦言	103.txt	107.txt
+年龄	102.txt
+V	10.txt
+恭维	111.txt
+体育中心	103.txt	111.txt
+国奥队	0.txt	1001.txt	110.txt
+冷静下来	104.txt
+断言	111.txt
+太高	110.txt	114.txt	115.txt
+中国	1.txt	10.txt	1001.txt	1002.txt	106.txt	110.txt	115.txt
+魏	104.txt
+赵昌宏用	105.txt
+折戟沉沙	110.txt
+终究	1.txt
+非战斗	0.txt
+回馈	10.txt
+打进	112.txt	114.txt
+路传中	112.txt
+从小	114.txt
+大雨	0.txt
+补齐	100.txt
+一天	1003.txt	109.txt	114.txt
+红石	11.txt
+特等奖	10.txt
+服装	107.txt
+大胆	114.txt
+打中	107.txt
+丝毫	0.txt	104.txt
+再度	0.txt
+初体验	10.txt
+第三	10.txt
+进过	103.txt
+放	1002.txt
+您	1003.txt	110.txt
+最具	110.txt	114.txt
+何太急	104.txt
+顶到	112.txt
+吃饭	106.txt	110.txt
+自由	101.txt
+两支	111.txt
+屡屡	104.txt
+突入	105.txt
+进来	1003.txt
+头牌	1.txt
+委屈	114.txt
+打过	10.txt	114.txt
+买大球者	115.txt
+整体	11.txt	111.txt
+梅开二度	104.txt	112.txt
+共同努力	111.txt
+详细	1001.txt
+内援	103.txt
+高层	100.txt	1001.txt	1003.txt
+年初	1000.txt	109.txt
+趁着	107.txt
+握杆	10.txt
+周雅菲收	10.txt
+收受贿赂	1001.txt	1002.txt
+赶忙	10.txt
+接触	10.txt	103.txt
+推	10.txt	104.txt	11.txt
+赌球	1001.txt	115.txt
+细节	1003.txt	103.txt
+十分	105.txt	114.txt
+教练组	1001.txt	1002.txt	104.txt	111.txt
+环境	107.txt	110.txt
+无论是	111.txt
+能够	1.txt	101.txt	103.txt	107.txt	114.txt
+中心	1000.txt	1002.txt	107.txt
+南杨	1000.txt
+退出	113.txt
+多家	1002.txt
+遭遇	1.txt	105.txt	11.txt
+根据	1000.txt
+陈志强	1002.txt
+干净	1003.txt
+攻防	112.txt	114.txt
+分析	1.txt	1002.txt	107.txt	115.txt
+链条	1001.txt
+混	104.txt
+此次	10.txt	106.txt
+具体	1001.txt	1002.txt	101.txt
+约束	111.txt
+着力	110.txt
+发到	105.txt
+惨痛	114.txt
+第四个	115.txt
+弯	1001.txt
+接近	11.txt	115.txt
+张曙光	100.txt	106.txt
+中均	1.txt
+警官	1003.txt
+柏佳骏	105.txt	112.txt
+但球	105.txt
+口	1.txt
+不足之处	1.txt
+2002	1002.txt	109.txt	110.txt
+传闻	1003.txt	115.txt
+出示	1003.txt	105.txt	111.txt
+先打	103.txt
+力争	111.txt
+拐	1001.txt
+三张	112.txt
+大比分	112.txt
+坎	1000.txt
+埋	114.txt
+经纪人	101.txt
+绝不会	109.txt
+乙级队	109.txt	113.txt
+假动作	105.txt
+废	107.txt
+拿到	10.txt	100.txt	1002.txt	1003.txt	102.txt	104.txt	105.txt	11.txt	110.txt	112.txt	115.txt
+同时	1001.txt	101.txt	103.txt	104.txt	111.txt	113.txt
+站	100.txt	104.txt	111.txt
+青岛	105.txt	115.txt
+之情	111.txt
+开盘	115.txt
+事态	104.txt
+范志毅	110.txt
+操作	106.txt
+老将	1.txt
+庄源	112.txt
+这样	0.txt	1.txt	100.txt	1000.txt	1001.txt	1003.txt	103.txt	104.txt	106.txt	107.txt	109.txt	110.txt	111.txt	113.txt	114.txt	115.txt
+公安局	1003.txt
+一再强调	100.txt
+胜负	103.txt
+试试	110.txt
+这则	1001.txt	113.txt
+被	0.txt	1.txt	10.txt	1000.txt	1001.txt	1002.txt	1003.txt	102.txt	104.txt	105.txt	107.txt	108.txt	109.txt	11.txt	110.txt	111.txt	112.txt	114.txt
+喝彩	112.txt
+推搡	111.txt
+内	10.txt	1002.txt	1003.txt	104.txt	105.txt	112.txt
+轨迹	1000.txt
+某些	1001.txt	1002.txt
+却是	1002.txt	115.txt
+温州	113.txt
+20%	100.txt
+特约记者	1000.txt	1001.txt	110.txt
+不让	114.txt
+2	1.txt	10.txt	100.txt	1001.txt	1002.txt	104.txt	105.txt	11.txt	111.txt	112.txt	113.txt	115.txt
+临时	10.txt
+看法	108.txt
+工伤	106.txt
+点燃	104.txt
+果岭	10.txt	11.txt
+今天	10.txt	108.txt	11.txt	111.txt
+权力	1002.txt
+书上	1003.txt
+受伤	0.txt	1.txt	104.txt
+看清	1.txt
+年前	1.txt	109.txt
+中途	102.txt
+高勇	105.txt
+职位	1002.txt
+焦点	100.txt	114.txt
+考虑	1003.txt	103.txt	111.txt
+世界	1.txt	10.txt	11.txt
+宏登前	109.txt
+性格	114.txt
+这些	100.txt	1003.txt	106.txt	111.txt	114.txt
+媒体	1002.txt	107.txt	114.txt
+离开	100.txt	102.txt
+张玉宁	106.txt	113.txt
+游戏	10.txt
+未尝	1.txt
+贡献	10.txt
+不得已	107.txt	110.txt
+无心恋战	112.txt
+相同	1.txt	111.txt
+试图	104.txt	105.txt	112.txt
+煎	104.txt
+小胜成	115.txt
+未果	100.txt	112.txt
+上场	105.txt	114.txt
+大展身手	10.txt
+打算	100.txt	102.txt	113.txt
+曼联	110.txt
+雨	0.txt	111.txt
+背景	109.txt	114.txt
+大哥	114.txt
+新浪	10.txt	100.txt	101.txt	103.txt	105.txt	106.txt	107.txt	11.txt	111.txt	112.txt	113.txt	115.txt
+很小	100.txt
+战略性	100.txt
+广州	114.txt
+高于	11.txt
+远	114.txt
+干颖波	112.txt
+真像	109.txt
+经济危机	109.txt
+此前	10.txt	1001.txt	1002.txt	103.txt	106.txt	111.txt
+中超	100.txt	1002.txt	1003.txt	107.txt	109.txt	110.txt
+最深	114.txt
+猜测	1000.txt
+洞杯	10.txt
+坚持下去	109.txt
+间歇期	111.txt
+捍卫	114.txt
+开幕	1003.txt
+种种	1001.txt
+申思	103.txt	111.txt
+本期	110.txt
+另类	111.txt
+延友	110.txt
+模拟器	10.txt
+至关重要	114.txt
+>	1001.txt
+骂	114.txt
+夏煊泽	10.txt
+毛家湾	104.txt
+试训	101.txt
+吹	115.txt
+觉得	100.txt	1003.txt	103.txt	107.txt	110.txt	111.txt	114.txt
+新闻节目	1000.txt
+执法	1001.txt
+异常	104.txt	112.txt
+比分	104.txt	11.txt	111.txt	112.txt	115.txt
+可	0.txt	1.txt	109.txt	110.txt	115.txt
+打正	105.txt
+家	109.txt	110.txt
+效力	111.txt
+11	105.txt	106.txt	11.txt	112.txt
+副局长	1003.txt
+天生	114.txt
+抢分	115.txt
+抵抗	100.txt
+一翻	10.txt
+行动	100.txt	1000.txt
+瞬时	10.txt
+应该	106.txt	107.txt	108.txt	11.txt	110.txt	111.txt
+不当	110.txt
+滚球	115.txt
+来看	11.txt	111.txt
+安排	1001.txt
+前提	100.txt	1003.txt
+有	0.txt	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt	103.txt	104.txt	105.txt	106.txt	107.txt	108.txt	109.txt	11.txt	110.txt	111.txt	113.txt	114.txt	115.txt
+一定	104.txt	109.txt	110.txt	111.txt	113.txt
+严重	1000.txt
+远郊	106.txt
+一到	1000.txt	115.txt
+围	104.txt
+走入	114.txt
+翻看	10.txt	1003.txt
+搓	104.txt
+依力	104.txt
+张朝松	112.txt
+调上来	100.txt
+提前	101.txt
+5	1.txt	10.txt	1000.txt	1001.txt	1002.txt	102.txt	104.txt	105.txt	109.txt	11.txt	112.txt	113.txt	115.txt
+偏偏	100.txt
+叶乔波	10.txt
+涉嫌	1000.txt	1001.txt	1002.txt
+鉴定	106.txt
+闷	114.txt
+右路	105.txt	112.txt
+接洽	1001.txt
+，	0.txt	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt	103.txt	104.txt	105.txt	106.txt	107.txt	108.txt	109.txt	11.txt	110.txt	111.txt	112.txt	113.txt	114.txt	115.txt
+每个	1001.txt
+足坛	1000.txt	1003.txt	110.txt	113.txt
+急需资金	109.txt
+踢	104.txt	111.txt
+没有	0.txt	1.txt	10.txt	100.txt	1000.txt	1003.txt	101.txt	102.txt	103.txt	104.txt	105.txt	106.txt	107.txt	108.txt	109.txt	11.txt	110.txt	111.txt	112.txt	114.txt	115.txt
+男足	1003.txt
+带走	1000.txt	1002.txt
+W	1001.txt
+落	112.txt
+颜面	112.txt
+朴尚赫	104.txt
+第二	11.txt	114.txt
+打法	104.txt
+首席记者	1003.txt	102.txt
+很难说	100.txt	106.txt	107.txt
+罚	1003.txt	111.txt
+47	112.txt
+分才	103.txt
+没错	1002.txt	101.txt
+多万	109.txt
+下	0.txt	10.txt	1000.txt	1001.txt	1002.txt	1003.txt	102.txt	104.txt	105.txt	107.txt	108.txt	109.txt	11.txt	110.txt	111.txt	114.txt	115.txt
+并非	1.txt
+迎战	105.txt	111.txt	112.txt
+人气	103.txt
+价值观	10.txt
+一等奖	10.txt
+还会	108.txt
+块钱	115.txt
+下半场	1.txt	104.txt	111.txt	115.txt
+发去	101.txt
+聚焦	114.txt
+黎兵	104.txt
+老队员	100.txt	102.txt	107.txt
+办公室	1000.txt	109.txt
+谈话	1001.txt
+桂冠	107.txt
+开场	1003.txt	105.txt	112.txt
+课	1.txt
+潜意识	1.txt
+全队	0.txt	109.txt	113.txt
+关于	1003.txt	106.txt	110.txt
+唤起	103.txt
+转会费	101.txt
+输	109.txt	111.txt	114.txt
+过多	111.txt
+门前	112.txt	114.txt
+1997	1002.txt
+可想而知	107.txt
+前卫	105.txt	112.txt
+试一试	0.txt
+上了贼船	109.txt
+一人过	114.txt
+挤牙膏	107.txt
+如此一来	1003.txt
+插上	105.txt	112.txt
+川足	104.txt
+价值	1.txt	10.txt
+已久	10.txt
+偏出	105.txt
+都	0.txt	1.txt	100.txt	1001.txt	1002.txt	1003.txt	102.txt	103.txt	104.txt	105.txt	106.txt	107.txt	109.txt	11.txt	110.txt	111.txt	112.txt	113.txt	114.txt	115.txt
+电气	109.txt
+齐发	112.txt
+上赛季	102.txt	103.txt
+发展	108.txt
+朝夕	109.txt
+惊艳	104.txt
+生命	109.txt
+也	0.txt	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt	103.txt	104.txt	105.txt	106.txt	107.txt	108.txt	109.txt	11.txt	110.txt	111.txt	112.txt	113.txt	114.txt	115.txt
+品	10.txt
+一件	110.txt
+61	112.txt
+张健强	1001.txt	1002.txt
+静止	107.txt
+第一阶段	105.txt
+培训班	1001.txt
+老总	1001.txt	1003.txt
+重	105.txt
+自己	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	103.txt	104.txt	106.txt	107.txt	108.txt	109.txt	110.txt	111.txt	112.txt	113.txt	114.txt
+短裤	110.txt
+普通工人	114.txt
+人尝过	1.txt
+眼镜	10.txt
+取代	1001.txt
+一则	104.txt
+竞争	109.txt	114.txt
+决出	1003.txt
+承认	1.txt	106.txt
+插	112.txt
+没史亮	114.txt
+弹射	1.txt
+讨薪	100.txt	102.txt
+近万名	1003.txt
+谢才	1000.txt
+课堂	114.txt
+一毛	109.txt
+未	10.txt	1003.txt	109.txt
+德比	103.txt	104.txt	111.txt	112.txt
+事实上	102.txt	111.txt
+两度	104.txt
+乃至	1001.txt
+挽回	112.txt
+攻势	105.txt	112.txt
+年代	110.txt
+阿尔加	1.txt
+治理	1000.txt
+即	1001.txt	1002.txt
+集团	100.txt	106.txt
+用以	1001.txt
+国青队	1001.txt
+做出	1003.txt	101.txt	105.txt	106.txt	113.txt
+马燕红	10.txt
+并不大	1003.txt	115.txt
+唐元鹏	114.txt
+金牌	10.txt	1003.txt
+主力	1.txt	102.txt	112.txt	114.txt
+前	1.txt	1001.txt	1002.txt	1003.txt	101.txt	104.txt	107.txt	109.txt	111.txt	112.txt	113.txt
+雄心	1.txt	110.txt
+态度	0.txt	100.txt	106.txt
+另一名	104.txt	111.txt
+完中邦	107.txt
+巴赫	1.txt
+各路	112.txt
+戴着	10.txt
+经不起	10.txt
+易主	108.txt
+妄下	111.txt
+优于	115.txt
+上海	1003.txt	103.txt	105.txt	110.txt	111.txt	112.txt
+不小	11.txt	114.txt
+来到	0.txt	1003.txt	110.txt	114.txt
+贿赂	1000.txt	1001.txt	1002.txt
+首席	107.txt
+北京	10.txt	1000.txt	1003.txt	101.txt	103.txt	108.txt	109.txt	11.txt	115.txt
+会	100.txt	1001.txt	1002.txt	101.txt	103.txt	104.txt	106.txt	108.txt	109.txt	11.txt	110.txt	111.txt	114.txt	115.txt
+不难	111.txt
+投资	110.txt
+目标	10.txt	100.txt	103.txt	108.txt	111.txt
+手下留情	105.txt
+延缓	105.txt	112.txt
+立马	104.txt
+后门	110.txt
+粗略	109.txt
+下午	0.txt	1000.txt	103.txt	106.txt
+降到	1002.txt	115.txt
+杆	10.txt	11.txt
+会上	103.txt
+邵诚志	108.txt
+系列	1000.txt	110.txt
+门户网站	1000.txt
+中邦	103.txt	111.txt
+门将	105.txt	112.txt
+石俊	104.txt
+世界杯	1.txt	1001.txt	1002.txt
+实属	114.txt
+尽管	1.txt
+同盟	1001.txt
+全运	1001.txt	1003.txt
+去练	114.txt
+长春	0.txt
+去	1.txt	10.txt	100.txt	1000.txt	1001.txt	102.txt	103.txt	107.txt	110.txt	111.txt	114.txt
+司仪	10.txt
+蒙混过关	100.txt
+央视	1000.txt
+这位	1002.txt	1003.txt	101.txt
+好像	110.txt
+雷	105.txt
+超有	100.txt
+已经	0.txt	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt	103.txt	104.txt	106.txt	107.txt	109.txt	110.txt	112.txt	114.txt
+完全相同	1001.txt
+插进	112.txt
+质量	111.txt	112.txt
+但是	10.txt	100.txt	1001.txt	103.txt	105.txt	106.txt	107.txt	110.txt	111.txt
+顺利完成	104.txt
+当晚	10.txt
+秦皇岛	114.txt
+前行	114.txt
+上课	113.txt
+容易	11.txt	110.txt
+出事	1002.txt
+吃	105.txt
+意志力	110.txt
+提供	10.txt	100.txt	102.txt
+潜规则	1002.txt
+第三次	11.txt
+开个	111.txt
+既	114.txt
+届时	108.txt
+才	1.txt	1000.txt	1001.txt	1002.txt	103.txt	104.txt	107.txt	108.txt	109.txt	110.txt	111.txt	114.txt
+扬长避短	1.txt
+牵连	1002.txt
+此种	1003.txt
+建立	109.txt
+先后	10.txt	1002.txt
+队友	105.txt	106.txt	111.txt	114.txt
+高球	10.txt	105.txt
+万不得已	109.txt
+湾	11.txt
+发布会	103.txt	108.txt	113.txt
+锦上添花	112.txt
+派遣	100.txt
+看不下去	109.txt
+削减	100.txt
+工作	10.txt	1000.txt	1001.txt	1002.txt	101.txt	102.txt	103.txt	108.txt	110.txt
+扮演着	1002.txt
+展现	114.txt
+做	100.txt	1001.txt	101.txt	105.txt	111.txt	114.txt
+万	1001.txt	1002.txt	1003.txt	101.txt	109.txt
+股权	106.txt	109.txt
+中间人	1001.txt
+衡源队	111.txt
+现象	1001.txt	111.txt
+日常	0.txt	10.txt
+手下	114.txt
+申诉	1003.txt
+舒服	112.txt
+根宝	103.txt
+扛不住	109.txt
+奥体中心	0.txt
+公认	1002.txt
+对	0.txt	1.txt	10.txt	100.txt	1000.txt	1002.txt	1003.txt	101.txt	103.txt	104.txt	106.txt	107.txt	109.txt	11.txt	110.txt	111.txt	112.txt	114.txt
+-	10.txt	1001.txt	105.txt	11.txt	112.txt	113.txt	115.txt
+出走	102.txt
+状态	1002.txt	107.txt	111.txt
+新疆	104.txt
+六人	1002.txt
+帕	11.txt
+埃维顿	105.txt
+冲不上	110.txt
+缘何	1002.txt
+不太	111.txt
+总	110.txt	115.txt
+整顿	1000.txt
+队长	104.txt	105.txt	112.txt
+墙上	109.txt
+前锋	103.txt	104.txt	105.txt	108.txt	111.txt	112.txt	113.txt	114.txt
+浦东	103.txt	111.txt
+不胜	1.txt	113.txt
+缓解	107.txt
+个别	1.txt	1001.txt
+28	112.txt
+实际上	100.txt	1001.txt	1003.txt	101.txt
+不幸	106.txt
+不仅	1001.txt	102.txt	104.txt	11.txt	113.txt
+一个月	110.txt	113.txt
+压倒性	1003.txt
+败诉	106.txt
+有时	114.txt
+冲进	1002.txt
+输球	111.txt
+杨凌	10.txt
+习以为常	100.txt
+上下	113.txt
+从三人	1002.txt
+禁区	104.txt	105.txt	112.txt
+打通	1001.txt
+源自	1.txt
+球员	0.txt	1.txt	100.txt	1001.txt	1003.txt	101.txt	102.txt	103.txt	104.txt	105.txt	107.txt	108.txt	109.txt	110.txt	111.txt	113.txt	114.txt	115.txt
+干系	1001.txt
+挨	10.txt
+倒地	104.txt	112.txt
+年轻气盛	107.txt
+延边	110.txt	114.txt
+号角	112.txt
+立足	114.txt
+多少度	110.txt
+连	1.txt	1003.txt	102.txt	104.txt	107.txt	109.txt	113.txt	114.txt
+足球比赛	1000.txt	1002.txt	1003.txt
+一般来说	115.txt
+哨声	104.txt
+入球	111.txt
+警种	1003.txt
+挥杆	10.txt
+重伤	106.txt
+续约	102.txt
+起	0.txt	1.txt	1003.txt	104.txt	105.txt	114.txt
+擅长	1.txt
+Z	1001.txt
+早报	104.txt
+补赛	107.txt
+李铁	102.txt	107.txt
+行政复议	106.txt
+认可	1.txt
+一把抓	10.txt
+庄家	115.txt
+8000	100.txt
+勉强	100.txt	107.txt
+曾经	100.txt	1001.txt	110.txt	113.txt	114.txt
+违法犯罪	1000.txt
+这么	1.txt	108.txt	109.txt	115.txt
+话题	107.txt
+休斯顿	11.txt
+时刻	114.txt
+截然不同	1002.txt
+WGC	11.txt
+难道	115.txt
+一球	112.txt
+主动	114.txt
+飞身	105.txt	112.txt
+摔倒	104.txt
+候补	1.txt
+高呼	104.txt
+少赛	107.txt
+职业化	110.txt
+从事	110.txt
+比	1.txt	103.txt	110.txt	111.txt	112.txt	114.txt	115.txt
+底线	112.txt
+调查结果	1001.txt
+外	1.txt	1002.txt	102.txt	104.txt
+廖总	104.txt
+★	104.txt
+多达	1002.txt
+不比	1001.txt
+特别	0.txt	114.txt
+4000	10.txt	110.txt
+横梁	105.txt	112.txt
+司法部门	1001.txt	1003.txt
+攻门	105.txt	112.txt
+拖欠	100.txt	102.txt	107.txt	109.txt
+中国足协	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt
+稍稍	112.txt
+要用	114.txt
+单位	10.txt
+完胜	1.txt
+三宗	1001.txt
+巴西	111.txt
+前途	108.txt	114.txt
+批示	110.txt
+对冲	112.txt
+依靠	111.txt	112.txt
+生于	114.txt
+平分秋色	1.txt
+敏感话题	111.txt
+副驾驶	106.txt
+大度	104.txt
+方面	100.txt	1001.txt	1003.txt	103.txt	106.txt	107.txt	110.txt	112.txt
+迪玛尔	104.txt
+积分	105.txt	11.txt	112.txt
+一班	114.txt
+争光	104.txt
+过去	0.txt	106.txt	107.txt
+高洪波	110.txt
+雄心壮志	10.txt
+前往	1.txt	101.txt	110.txt
+明日	113.txt
+扑救	105.txt	112.txt
+邵诚	109.txt
+趋于	112.txt
+疲于	112.txt
+买个	110.txt
+失利	1002.txt
+国家行政学院	1002.txt
+至今	1.txt	102.txt	110.txt
+翻船	111.txt
+显露出	112.txt
+随即	1003.txt
+不远	102.txt
+负于	113.txt
+包	10.txt
+杨	1000.txt	1001.txt	1002.txt
+火爆场面	104.txt	111.txt
+球队	0.txt	10.txt	100.txt	1001.txt	1002.txt	1003.txt	101.txt	103.txt	104.txt	107.txt	108.txt	109.txt	110.txt	111.txt	113.txt	114.txt
+她们	10.txt
+对阵	10.txt	1003.txt	107.txt	110.txt
+究竟	1002.txt	106.txt
+力劝	104.txt
+大胜	104.txt
+微笑	10.txt
+法庭	106.txt
+队员	0.txt	1003.txt	102.txt	103.txt	104.txt	105.txt	109.txt	110.txt	111.txt	112.txt	114.txt	115.txt
+不行	100.txt	107.txt	110.txt
+几乎	1001.txt	1002.txt	104.txt
+加倍努力	110.txt
+上海申花	110.txt
+深	111.txt
+撑起	110.txt
+方案	103.txt
+失球	1.txt
+走账	1001.txt
+满足	114.txt
+国少队	1001.txt
+以外	100.txt
+瘦弱	114.txt
+全国冠军	110.txt
+效益	107.txt
+走向	10.txt
+而言	1000.txt	102.txt
+附加	102.txt	104.txt
+塞尔维亚	0.txt
+锁定	1.txt	104.txt
+前沿	105.txt	112.txt
+各级	1001.txt
+一分	109.txt
+机会	10.txt	100.txt	105.txt	107.txt	110.txt	111.txt	112.txt	114.txt
+变脸	111.txt
+城池	112.txt
+左边	112.txt
+刊发	1000.txt
+或许	1.txt	11.txt	111.txt
+射手	1.txt	110.txt	114.txt
+换上	100.txt	105.txt	112.txt
+主力阵容	100.txt	111.txt
+算是	109.txt	114.txt
+还	1.txt	10.txt	100.txt	1001.txt	1002.txt	1003.txt	101.txt	104.txt	105.txt	106.txt	107.txt	108.txt	11.txt	110.txt	111.txt	114.txt
+王	105.txt	112.txt
+算不上	114.txt
+体育报	114.txt
+沈阳市	106.txt
+战成	104.txt
+赢得	11.txt	112.txt
+造成	0.txt	110.txt	112.txt
+不久	104.txt	11.txt
+一试身手	10.txt
+台上	104.txt	108.txt
+宝贝	10.txt
+月薪	100.txt	102.txt
+报复性	1002.txt
+家庭环境	114.txt
+到宏运	100.txt
+早	1001.txt	1002.txt	110.txt
+这笔	110.txt
+入网	1.txt	112.txt
+缺乏	100.txt
+公安	1000.txt	1002.txt
+休战	105.txt	111.txt
+窗户	110.txt
+闹心	107.txt
+中国男足	1002.txt
+0.25	115.txt
+做好	1000.txt	1003.txt	114.txt
+边缘型	100.txt
+别的	110.txt
+对手	1.txt	1003.txt	104.txt	111.txt	112.txt
+迫使	100.txt
+关心	109.txt
+嫌疑	1003.txt
+用于	1001.txt
+二队	110.txt
+残存	107.txt
+叹息	109.txt
+几次	0.txt	1001.txt	105.txt
+喝酒	106.txt
+迷失	114.txt
+规范	114.txt
+里面	1001.txt	104.txt
+入不敷出	109.txt
+只是	100.txt	1002.txt	107.txt	111.txt	114.txt
+出格	104.txt
+省运会	114.txt
+即将	0.txt	10.txt	1003.txt	104.txt	111.txt
+几个	0.txt	100.txt	1001.txt	107.txt	110.txt
+工作人员	0.txt
+人	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	102.txt	103.txt	104.txt	105.txt	106.txt	109.txt	11.txt	110.txt	111.txt	114.txt	115.txt
+烟消云散	106.txt
+上海市委	110.txt
+右	112.txt
+右侧	105.txt
+不予	106.txt
+所	110.txt	114.txt
+1995	100.txt	110.txt
+James	11.txt
+第四名	11.txt	113.txt
+抵达	0.txt
+反复	1003.txt	115.txt
+靠	1001.txt	104.txt	111.txt
+鞠一躬	111.txt
+周海滨	102.txt
+封闭	107.txt	111.txt
+谢琳	1.txt
+徐根宝	110.txt
+天津	1001.txt	1003.txt
+决赛圈	1002.txt
+归来	104.txt
+据悉	1001.txt
+越发	1.txt
+罗竞	104.txt	112.txt
+Y	1001.txt
+结成	1001.txt
+劲射	105.txt	112.txt
+；	1001.txt	1002.txt	111.txt
+。	0.txt	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt	103.txt	104.txt	105.txt	106.txt	107.txt	108.txt	109.txt	11.txt	110.txt	111.txt	112.txt	113.txt	114.txt	115.txt
+按照	1002.txt	106.txt	107.txt
+联席会议	1003.txt
+每天	110.txt
+刮	10.txt
+肖	111.txt
+攻克	1.txt
+严格	114.txt
+负	1.txt	113.txt	114.txt
+边路	1.txt	105.txt	112.txt
+脚下	112.txt
+牙买加	104.txt
+僵局	105.txt
+不谋而合	111.txt
+落到	112.txt
+调任	1002.txt
+中	0.txt	1.txt	1000.txt	1001.txt	1002.txt	1003.txt	102.txt	103.txt	104.txt	105.txt	106.txt	107.txt	109.txt	11.txt	110.txt	111.txt	112.txt	114.txt	115.txt
+艰苦	10.txt	107.txt	110.txt
+五年	100.txt	1002.txt
+展开攻势	105.txt
+一下子	114.txt
+滑铁卢	1.txt	11.txt
+超越	105.txt
+快速	1.txt	112.txt
+归队	106.txt
+抽中后	10.txt
+直到现在	1002.txt
+买来	110.txt
+宝贵	112.txt
+信号	1002.txt
+拥进	104.txt
+足	1002.txt
+另据	1002.txt
+66	11.txt
+期	105.txt	111.txt
+举行	10.txt	105.txt	11.txt
+之路	110.txt
+军	0.txt	105.txt
+力挺	1002.txt
+带	1001.txt	113.txt	114.txt
+争顶	112.txt
+之高	115.txt
+交易	1001.txt
+57	112.txt
+南区	113.txt
+晨报	1002.txt
+培育	1001.txt
+运动员	10.txt
+中甲	100.txt	1003.txt	102.txt	103.txt	105.txt	107.txt	111.txt	112.txt	114.txt	115.txt
+干什么	104.txt
+使用	104.txt	11.txt
+顾问	104.txt	111.txt
+苛刻	102.txt
+欧亚	105.txt
+运转	109.txt
+兑现	110.txt
+愤怒	1003.txt
+从而	104.txt
+强有力	112.txt
+甩手	104.txt
+西部	112.txt	115.txt
+凌空	104.txt	105.txt
+网络	1003.txt
+车祸	106.txt
+四川队	112.txt	115.txt
+热身赛	0.txt	1.txt	1001.txt	11.txt	114.txt
+这张	1003.txt
+抢点	112.txt
+上述	104.txt
+结构	1002.txt
+处在	105.txt
+同样	102.txt	104.txt	111.txt	114.txt
+涉及	1001.txt	1002.txt	1003.txt
+期盼	10.txt	109.txt
+自认	101.txt
+被动	1000.txt
+获取	1000.txt
+出冲超	111.txt
+问过	1001.txt
+自信心	114.txt
+要是	107.txt	110.txt
+锦标赛	11.txt
+第二场	113.txt
+以免	0.txt
+脚后跟	104.txt
+龙力	109.txt
+财团	108.txt
+共同	1.txt
+不	1.txt	100.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt	104.txt	105.txt	106.txt	107.txt	109.txt	11.txt	110.txt	111.txt	112.txt	113.txt	114.txt	115.txt
+浪费	112.txt
+前科	0.txt
+有目共睹	111.txt
+位居	107.txt
+规则	1001.txt
+激烈	104.txt	105.txt	109.txt
+看阵	104.txt
+简直	104.txt
+绅士	10.txt
+身背	105.txt
+训练项目	107.txt
+警惕	0.txt
+不敢相信	113.txt
+根本	10.txt	100.txt	110.txt	114.txt	115.txt
+一位	0.txt	1003.txt	106.txt	110.txt	113.txt
+本方	104.txt
+算	1003.txt
+采访	101.txt	110.txt	111.txt	114.txt
+壮行	104.txt
+Nitties	11.txt
+最后	0.txt	1.txt	10.txt	100.txt	1001.txt	103.txt	105.txt	106.txt	11.txt	110.txt	111.txt	115.txt
+赔付率	115.txt
+全场	114.txt
+锋线	104.txt	105.txt
+外场	0.txt
+留洋	101.txt
+上午	0.txt	1000.txt	1003.txt	108.txt
+后	1.txt	10.txt	1001.txt	1003.txt	102.txt	104.txt	105.txt	106.txt	110.txt	111.txt	112.txt	114.txt	115.txt
+昨晚	1002.txt	1003.txt
+压在	1.txt
+心疼	107.txt
+加倍	110.txt
+没拉	114.txt
+操纵	1001.txt
+昨天下午	104.txt
+工资水平	110.txt
+遭到	100.txt	102.txt	114.txt
+买	115.txt
+海利丰	105.txt	115.txt
+之间	1002.txt	1003.txt	103.txt	106.txt	11.txt	111.txt
+弄	104.txt	109.txt
+□	1002.txt
+看台	111.txt
+向来	114.txt
+问候	111.txt
+很差	114.txt
+埃勒	108.txt
+传至	112.txt
+使得	101.txt	104.txt	111.txt	112.txt
+历史	1.txt	1002.txt	106.txt	110.txt	115.txt
+相	104.txt	114.txt
+一杆	10.txt
+如何	1000.txt	104.txt
+能力	1.txt	1001.txt	104.txt	110.txt	111.txt	114.txt
+基础训练	110.txt
+球传过	112.txt
+性格外向	114.txt
+解脱	1.txt
+出来	1.txt	100.txt	1002.txt	1003.txt	105.txt	111.txt	114.txt
+惊讶	1002.txt
+别说	109.txt
+将球	10.txt	105.txt	112.txt
+稀罕	0.txt
+人为	110.txt
+记为	1003.txt
+史鸣	105.txt
+二次	111.txt
+手续	103.txt
+连输	1001.txt
+参考	1003.txt
+缺钱	109.txt
+毁	110.txt
+软肋	1.txt
+不仅仅	1.txt
+体现	111.txt	115.txt
+其实	1.txt	1000.txt	101.txt	102.txt	103.txt	106.txt	109.txt	111.txt
+53	105.txt
+会升	109.txt
+明白	113.txt	114.txt
+开心	1.txt	114.txt
+偏远	112.txt
+底子	107.txt
+本报讯	1003.txt	108.txt
+房中	114.txt
+屡	10.txt
+顶不住	109.txt
+大家	1.txt	1002.txt	1003.txt	102.txt	104.txt	109.txt	111.txt
+重磅	1001.txt
+利用	1000.txt	1001.txt	1002.txt	105.txt	111.txt	112.txt
+教练员	1001.txt	108.txt
+减员	0.txt
+组长	1001.txt
+带来	100.txt	107.txt	109.txt	114.txt
+丁峰	105.txt
+尹鸿博成	114.txt
+右脚	104.txt
+劲旅	105.txt
+边	105.txt
+抛出	111.txt
+有关	1001.txt	1002.txt	1003.txt
+字	102.txt
+主持人	10.txt
+吊射	115.txt
+需要	1.txt	100.txt	1003.txt	101.txt	103.txt	110.txt	111.txt	114.txt	115.txt
+挥	104.txt
+员工	100.txt	106.txt
+板块	1003.txt
+第四位	11.txt
+比赛	0.txt	1.txt	100.txt	1001.txt	1002.txt	1003.txt	102.txt	103.txt	104.txt	105.txt	107.txt	108.txt	109.txt	11.txt	110.txt	111.txt	112.txt	113.txt	114.txt	115.txt
+带给	10.txt
+杨云	111.txt
+尽如人意	111.txt
+颁出	10.txt
+争吵	104.txt
+伍兹	10.txt	11.txt
+显然	104.txt	11.txt
+显得	0.txt	1003.txt	111.txt
+较	104.txt
+下面	104.txt
+自	11.txt
+输人	111.txt
+球前	111.txt
+裸奔	1002.txt
+打动	109.txt
+当然	1.txt	1001.txt	1003.txt	104.txt	109.txt
+支付	100.txt	101.txt	113.txt
+很乖	114.txt
+铁岭	1002.txt
+顾超	105.txt	112.txt
+取证	1002.txt	1003.txt
+告上	106.txt
+补偿	101.txt
+纵容	1003.txt
+统计	111.txt
+否定	1002.txt	106.txt
+场内	104.txt
+公安部门	1000.txt	1003.txt
+弧线球	104.txt
+最壮	110.txt
+极为	1003.txt
+聘请	1.txt	113.txt
+十几个	111.txt
+后天	114.txt
+稳定	107.txt
+树立	114.txt
+主场优势	1.txt	115.txt
+会议	1000.txt
+留	1003.txt
+上海东方	111.txt
+的	0.txt	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt	103.txt	104.txt	105.txt	106.txt	107.txt	108.txt	109.txt	11.txt	110.txt	111.txt	112.txt	113.txt	114.txt	115.txt
+动力	114.txt
+年收入	100.txt
+一举一动	109.txt
+心理准备	102.txt
+保持	100.txt	104.txt	105.txt	106.txt	112.txt
+第十一届	1003.txt
+迟迟	100.txt
+心知肚明	1.txt
+遗留	106.txt
+变革	108.txt
+刘宇	1001.txt	104.txt
+之所以	1001.txt	1003.txt	108.txt	109.txt
+西班牙	108.txt
+毕	10.txt
+各	1000.txt
+差不多	103.txt	109.txt
+上去	100.txt
+差点	105.txt
+哪	101.txt
+正在	101.txt	104.txt	108.txt
+降入	102.txt
+管理中心	1002.txt
+审讯	1003.txt
+滕彬	112.txt
+木则	104.txt
+成年	1003.txt
+这里	114.txt
+能	1.txt	10.txt	100.txt	1002.txt	101.txt	107.txt	109.txt	11.txt	110.txt	114.txt	115.txt
+最为	1001.txt	110.txt
+骗局	1000.txt
+迎新	10.txt
+乱军	112.txt
+性质	1002.txt
+怀中	112.txt
+安装公司	109.txt
+体育	1003.txt	101.txt
+依照	106.txt
+年轻人	114.txt
+担心	0.txt	114.txt	115.txt
+队王	112.txt
+轻松	10.txt	112.txt
+三支	103.txt
+负责	1002.txt	103.txt	106.txt	109.txt
+耗尽	105.txt
+场地	104.txt
+赢下	107.txt
+不成	102.txt
+联队	113.txt
+箭头	105.txt
+优秀品质	114.txt
+虽然	10.txt	100.txt	1001.txt	1002.txt	104.txt	105.txt	107.txt	108.txt	109.txt	110.txt	111.txt	113.txt	114.txt
+二字	10.txt
+脚法	103.txt
+喜欢	104.txt
+现有	0.txt
+不难看出	1002.txt
+脸上	104.txt
+感谢	111.txt
+立案侦查	1000.txt	1001.txt	1002.txt
+机构	1002.txt
+赵作峻	111.txt
+队内	111.txt	113.txt
+助攻	112.txt
+心如止水	107.txt
+明确要求	102.txt
+军心	107.txt
+正是	1.txt	110.txt	114.txt
+教程	10.txt
+宏登	108.txt	109.txt
+地成	109.txt
+国家劳动和社会保障部	106.txt
+抗争	1002.txt
+结合	115.txt
+有着	1000.txt	109.txt	111.txt	114.txt
+收益	110.txt
+使人	115.txt
+上交	1001.txt
+案件	1000.txt
+赵发庆	100.txt	102.txt
+实力	104.txt	107.txt	110.txt	111.txt	113.txt	114.txt	115.txt
+乒乓球	10.txt
+这使	102.txt
+身旁	10.txt
+出征	104.txt	110.txt
+自信	114.txt
+当上	109.txt
+预选赛	1001.txt
+受贿	1002.txt
+不但	114.txt
+黄姓	100.txt
+委员会	1000.txt	1001.txt
+打黑	1003.txt
+大量	1002.txt
+摇动	10.txt
+诱惑	10.txt
+兴奋	10.txt	104.txt
+协助	1000.txt	1001.txt	1002.txt
+查看	1001.txt
+某	1.txt	1001.txt	1003.txt
+致意	104.txt
+高速	112.txt
+排第	1.txt
+脚	104.txt
+桀骜不驯	114.txt
+难得	10.txt	105.txt
+第三轮	11.txt
+那场	1001.txt
+全球	109.txt
+通过	1.txt	100.txt	1001.txt	103.txt	111.txt	114.txt
+脚踝	114.txt
+想要	1001.txt	102.txt
+回合	114.txt
+英超	111.txt
+提出	10.txt	101.txt	102.txt	110.txt
+应得	102.txt
+确切	1002.txt
+恶意	111.txt
+球迷	1003.txt	103.txt	104.txt	109.txt	111.txt	112.txt
+哪些地方	1.txt
+两队	1.txt	104.txt	105.txt	111.txt
+咬着牙	107.txt
+两次	1.txt	10.txt	1002.txt	109.txt	115.txt
+再	0.txt	1003.txt	103.txt	104.txt	105.txt	107.txt	110.txt	111.txt	112.txt	115.txt
+辛苦	103.txt
+幸福	104.txt
+南京	107.txt
+事情	0.txt	1001.txt	1002.txt	101.txt	11.txt	110.txt
+名单	1.txt	100.txt	1001.txt	110.txt
+东北地区	1003.txt
+多位	1003.txt
+尤	103.txt	111.txt
+人物	110.txt
+登顶	107.txt
+要求	10.txt	1000.txt	1001.txt	101.txt	102.txt	110.txt	114.txt
+整个	1002.txt	1003.txt	111.txt	113.txt	114.txt
+小将	101.txt	104.txt	111.txt
+咬住	112.txt
+后面	1.txt
+与	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt	103.txt	104.txt	105.txt	106.txt	107.txt	109.txt	111.txt	113.txt
+恐吓	100.txt
+彻底	0.txt	1.txt	1000.txt
+一轮	107.txt
+首秀	111.txt
+眼花缭乱	112.txt
+不肯	114.txt
+卷土重来	103.txt
+专题	114.txt
+执行	106.txt
+明	101.txt
+完	10.txt	114.txt
+体	1000.txt
+限度	114.txt
+美味	10.txt
+加强	105.txt
+拿下	104.txt	11.txt	111.txt
+登场	104.txt	111.txt
+朋友	10.txt	101.txt	114.txt
+输给	1001.txt
+调解	106.txt
+大赞	111.txt
+总结	1.txt
+判决	106.txt
+渡过难关	109.txt
+充分	1002.txt
+大幅	100.txt
+几轮	111.txt
+指出	1003.txt
+这一进	109.txt
+发懵	109.txt
+信心	1.txt	100.txt	11.txt	111.txt	113.txt
+头球	104.txt	105.txt	112.txt
+健身卡	107.txt
+当	0.txt	1.txt	10.txt	109.txt	110.txt	114.txt	115.txt
+场	1003.txt	105.txt	112.txt	114.txt
+诉讼请求	106.txt
+可谓	1002.txt	1003.txt
+期待	1003.txt	105.txt	107.txt
+外出	106.txt
+侵犯	105.txt
+成足	104.txt
+对付	1.txt	107.txt
+0	1.txt	1003.txt	104.txt	105.txt	111.txt	112.txt	113.txt	114.txt	115.txt
+把握住	112.txt
+几分钟	115.txt
+马林	107.txt
+分享	1001.txt
+交换条件	10.txt
+《	1000.txt	1003.txt	114.txt
+梯队	103.txt
+比较	1.txt	100.txt	101.txt	111.txt	114.txt	115.txt
+净土	1003.txt
+一顿	114.txt
+)	10.txt	100.txt	1000.txt	1002.txt	101.txt	102.txt	103.txt	104.txt	105.txt	106.txt	107.txt	108.txt	109.txt	11.txt	110.txt	111.txt	112.txt	113.txt	115.txt
+周五	1000.txt
+谜	1002.txt
+派	1003.txt	104.txt
+减缩	100.txt
+源头	1003.txt
+使劲	105.txt
+既然	1.txt
+基本	1.txt	106.txt	114.txt	115.txt
+意见	102.txt
+倾向	104.txt
+葡甲	104.txt
+：	1.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	103.txt	104.txt	105.txt	106.txt	109.txt	11.txt	110.txt	111.txt	112.txt	113.txt	114.txt	115.txt
+高难度	105.txt	112.txt
+求救	100.txt
+哪一天	1000.txt
+审理	106.txt
+义气	114.txt
+奖品	10.txt
+新	102.txt	103.txt	104.txt	105.txt	107.txt	108.txt	109.txt	111.txt	113.txt
+搭档	104.txt
+没什么	114.txt
+两洞	10.txt
+失业	102.txt
+累计	100.txt	112.txt
+十几位	111.txt
+缺一不可	110.txt
+曼联队	111.txt
+后腰	104.txt
+孔德则	104.txt
+龙力队	109.txt
+当事人	100.txt
+捧杀	114.txt
+栽倒	1002.txt
+周雅菲	10.txt
+于	1000.txt	104.txt	105.txt	112.txt
+消失	1001.txt	110.txt
+姜坤	103.txt
+181	115.txt
+和	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	103.txt	104.txt	105.txt	106.txt	107.txt	108.txt	109.txt	110.txt	111.txt	114.txt	115.txt
+越位	105.txt	112.txt
+宋超	105.txt
+受到感染	112.txt
+纵是	109.txt
+公司业绩	109.txt
+大部分	115.txt
+八年	1.txt
+各项	100.txt	111.txt
+部后	1002.txt
+2.5	115.txt
+观察	115.txt
+签订	10.txt	102.txt
+南勇	1001.txt	1002.txt	1003.txt
+阻截	105.txt
+九	105.txt	11.txt	110.txt
+火头上	104.txt
+因	1002.txt	101.txt	112.txt
+江津	110.txt
+奥运会	0.txt	1.txt
+八一	111.txt
+战利品	10.txt
+路	110.txt
+突破	10.txt	105.txt	107.txt	112.txt
+下降	105.txt	110.txt
+只见	10.txt
+两场	1001.txt	11.txt
+身为	10.txt
+扛	109.txt
+行业	1002.txt
+最佳	110.txt	114.txt
+内容	1.txt	1000.txt	111.txt
+腐败	1001.txt
+程度	1.txt	100.txt	107.txt
+万之多	100.txt
+阴沉沉	0.txt
+曾一度	1.txt
+领导小组	1001.txt
+讨个	102.txt
+轮空	105.txt
+左	105.txt
+省队	114.txt
+推都	110.txt
+战术	1.txt	105.txt	112.txt	114.txt
+存在	100.txt	1001.txt	1002.txt	1003.txt	103.txt	115.txt
+滕	10.txt
+同根	104.txt
+嘱咐	0.txt
+到位	100.txt
+召开	1.txt	1003.txt	103.txt	108.txt	113.txt
+今天下午	101.txt
+49	112.txt
+再有	115.txt
+19	104.txt	105.txt	112.txt
+彭欣力	104.txt
+当选	1002.txt
+透露	1001.txt	1002.txt	1003.txt	101.txt	107.txt	109.txt
+争论	106.txt
+严加	110.txt
+1.66	115.txt
+情结	1.txt
+一把	104.txt
+涨到	115.txt
+是因为	114.txt
+现状	100.txt	108.txt
+由	10.txt	1001.txt	1002.txt	105.txt	112.txt
+多渠道	1000.txt
+过瘾	104.txt
+这条	110.txt
+这一	0.txt	10.txt
+毫不犹豫	104.txt
+加盟	104.txt
+更大	114.txt
+出国	101.txt	110.txt
+成	10.txt	109.txt	110.txt
+侮辱性	104.txt
+一线	106.txt
+经过	10.txt	1001.txt	114.txt
+166	115.txt
+邵文忠	1001.txt
+巨头	1002.txt
+之下	0.txt
+冲上	104.txt
+如今	106.txt	109.txt	110.txt
+帕尔默	11.txt
+低水方	115.txt
+太	102.txt	106.txt	108.txt	109.txt	114.txt	115.txt
+苦衷	109.txt
+一场	1.txt	1003.txt	107.txt	11.txt	111.txt	114.txt
+原因	1001.txt	101.txt	102.txt
+递交	100.txt
+259	109.txt
+差距	1.txt	103.txt	11.txt	113.txt	115.txt
+并未	115.txt
+以来	11.txt	110.txt
+来访	105.txt	112.txt
+逮捕	1000.txt
+张萌祺	112.txt
+注意	0.txt	10.txt	115.txt
+助威	104.txt
+判罚	112.txt
+遇到	1.txt	100.txt	102.txt
+头功	1003.txt
+专案组	1000.txt	1001.txt	1002.txt
+部长	1003.txt
+出线权	1001.txt
+大连	102.txt	110.txt
+场上	105.txt	110.txt	111.txt	112.txt	114.txt
+债权人	100.txt
+峥嵘	105.txt	112.txt
+掀开	114.txt
+80	105.txt	110.txt	115.txt
+无情	10.txt	109.txt
+首次	1.txt	111.txt	114.txt
+首场	105.txt	113.txt
+数据	115.txt
+几位	10.txt
+击掌	10.txt
+事	0.txt	1002.txt	1003.txt	104.txt	114.txt
+温床	1001.txt
+落后	11.txt	115.txt
+智谷	112.txt	115.txt
+最大	1003.txt	114.txt
+喊	100.txt	103.txt	110.txt
+出战	112.txt	114.txt
+跑动	105.txt
+屏幕	10.txt
+目前	100.txt	101.txt	102.txt	106.txt	107.txt	108.txt	11.txt	110.txt	111.txt
+这天	100.txt
+更迭	1001.txt
+击败	1.txt
+积极	1003.txt	11.txt	113.txt	114.txt
+充满	104.txt
+崔永哲	105.txt
+将士	1.txt
+演变	1000.txt
+张茜	10.txt
+美国	1.txt	11.txt
+饭店	100.txt
+南昌	105.txt	111.txt
+执掌	110.txt
+衰落	1002.txt
+分钟	0.txt	1003.txt	104.txt	105.txt	110.txt	112.txt	115.txt
+典故	110.txt
+不同	1001.txt	1002.txt	107.txt	114.txt
+有说有笑	114.txt
+肖战波	103.txt
+给	0.txt	1.txt	10.txt	100.txt	1001.txt	101.txt	102.txt	104.txt	107.txt	110.txt	111.txt	112.txt	114.txt	115.txt
+三次	10.txt
+我	1.txt	10.txt	100.txt	1002.txt	1003.txt	101.txt	103.txt	104.txt	107.txt	109.txt	110.txt	111.txt	114.txt
+领先	104.txt	107.txt	11.txt	112.txt	115.txt
+愿意	106.txt	111.txt	115.txt
+至	109.txt	112.txt
+段高源	112.txt
+苦点	114.txt
+徘徊	109.txt
++	10.txt
+乙级	113.txt	114.txt
+选项	1003.txt
+一份	11.txt
+米克尔	11.txt
+徐弘	110.txt
+2007	114.txt
+依旧	105.txt
+总教练	103.txt
+一阵	109.txt	113.txt
+个人行为	1002.txt
+诸侯	112.txt
+卡	10.txt
+徐洋	112.txt
+世界排名	11.txt
+当南勇	1001.txt
+反超	10.txt
+没	10.txt	104.txt	114.txt
+就是	0.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	102.txt	103.txt	104.txt	106.txt	108.txt	109.txt	110.txt	111.txt	114.txt	115.txt
+分别	1001.txt	1002.txt
+人家	1002.txt	110.txt
+幸运	10.txt
+薪水	102.txt	113.txt
+恐瑞症	1.txt
+降薪	102.txt
+任意球	103.txt	105.txt	112.txt
+源于	1.txt
+保密	1.txt
+技艺	103.txt
+泡汤	110.txt
+共同点	114.txt
+特点	1.txt	111.txt
+小胜	113.txt
+手中	10.txt
+经济	1002.txt
+这场	1.txt	1003.txt	111.txt
+腹地	105.txt
+不再	0.txt	113.txt	115.txt
+争议	1003.txt
+轻而易举	107.txt
+人选	1001.txt
+热情	10.txt
+受众	111.txt
+最强	110.txt	113.txt
+属实	1001.txt
+真的	1002.txt	107.txt	110.txt	113.txt	114.txt
+主导	105.txt
+当时	1.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	104.txt	109.txt	110.txt	111.txt	113.txt	115.txt
+减半	100.txt	102.txt
+要冲	110.txt
+某次	1001.txt	114.txt
+?	105.txt	110.txt	112.txt
+开出	101.txt	111.txt
+判断	105.txt	115.txt
+庆贺	10.txt
+美金	110.txt
+签下	103.txt	104.txt
+令人兴奋	114.txt
+份	1.txt	114.txt
+内心深处	1.txt
+杨影	10.txt
+距离	1.txt	102.txt
+便	1.txt	1000.txt	104.txt	11.txt	114.txt
+引领	1003.txt
+体能	105.txt	114.txt
+死猪不怕开水烫	107.txt
+开发区	103.txt
+强调	104.txt	111.txt
+密切	1002.txt
+不愁	104.txt
+人力物力	108.txt
+当值	1001.txt	1003.txt
+将	100.txt	1000.txt	1003.txt	101.txt	103.txt	104.txt	105.txt	106.txt	108.txt	109.txt	11.txt	110.txt	111.txt	112.txt	114.txt
+玩命	110.txt	114.txt
+并不需要	101.txt
+广东省	1003.txt
+葛振	105.txt
+号	1.txt	10.txt	103.txt
+坚强	109.txt
+顶替	112.txt
+再也	1.txt
+花游	10.txt
+可惜	105.txt	112.txt
+一打	104.txt
+爆出	10.txt
+他们	10.txt	100.txt	1000.txt	1001.txt	1003.txt	101.txt	102.txt	103.txt	106.txt	107.txt	109.txt	11.txt	110.txt	111.txt	113.txt	114.txt
+比杆赛	10.txt
+引	100.txt	104.txt
+备受	100.txt
+资料	1003.txt
+一头	114.txt
+阎森	10.txt
+广东队	1003.txt	114.txt
+很多	100.txt	1001.txt	1002.txt	102.txt	103.txt	107.txt	108.txt	109.txt	110.txt	111.txt	115.txt
+刺探	1.txt
+不成问题	100.txt
+越	104.txt	106.txt
+铁岭市	1003.txt
+形势	112.txt
+沿用	108.txt
+不了了之	1001.txt	110.txt
+丑闻	1001.txt
+远角	112.txt
+入党	114.txt
+公安部	1000.txt	1003.txt
+近日	111.txt
+一生	114.txt
+热闹	104.txt
+呐喊	111.txt
+如果	1.txt	100.txt	1000.txt	1001.txt	1003.txt	102.txt	107.txt	11.txt	110.txt	114.txt	115.txt
+通知	1003.txt	101.txt
+不时	10.txt
+三	1002.txt
+扑	105.txt	112.txt
+荣誉	114.txt
+表现出色	104.txt	114.txt
+都持	106.txt
+充当	1001.txt
+极严	107.txt
+本轮	105.txt	11.txt	112.txt
+时间	1.txt	10.txt	1000.txt	1002.txt	1003.txt	101.txt	103.txt	104.txt	107.txt	11.txt	112.txt	115.txt
+进攻	1.txt	104.txt	105.txt	112.txt
+见状	10.txt
+宣布	1000.txt	103.txt	108.txt	113.txt
+另一方面	101.txt
+于是	10.txt	105.txt	110.txt	114.txt
+以逸待劳	105.txt
+多名	1003.txt	105.txt
+事先	1000.txt
+犯规	105.txt	112.txt
+一堂	1.txt
+走	0.txt	104.txt	110.txt	114.txt
+满意	104.txt	111.txt	112.txt
+不出意外	1001.txt
+一半	10.txt
+此后	112.txt
+学坏	114.txt
+握手言和	1.txt	105.txt
+以及	1.txt	1001.txt	1002.txt	108.txt	112.txt
+只不过	1001.txt
+尼奥	111.txt
+哭泣	1003.txt
+邪	0.txt
+3.40	115.txt
+里	1.txt	10.txt	1000.txt	1002.txt	104.txt	107.txt	109.txt	110.txt	111.txt
+罪	1001.txt
+气魄	100.txt
+一道	1.txt
+坐镇	105.txt	111.txt	112.txt
+锁	110.txt
+包袱	106.txt
+赚钱	1001.txt	110.txt	115.txt
+一批	110.txt
+她	10.txt
+吸收	114.txt
+辽足	100.txt	101.txt	102.txt	105.txt	106.txt	107.txt
+两名	104.txt	105.txt
+糟糕	11.txt	112.txt
+刺耳	111.txt
+向申	111.txt
+版本	1000.txt
+亮相	104.txt
+天赋	111.txt
+—	1.txt	1000.txt	1001.txt	1002.txt	1003.txt	106.txt
+联谊	10.txt
+有事	1000.txt
+曲乐恒	106.txt
+激动	104.txt
+失去	1001.txt
+二是	1001.txt	110.txt
+搏杀	111.txt
+混乱	107.txt
+宏运	100.txt	106.txt
+传授	103.txt
+找回	111.txt
+替补	100.txt	102.txt	104.txt	114.txt
+教导	114.txt
+拒绝	100.txt	1001.txt	102.txt	106.txt
+这方面	1001.txt
+剪辑	1.txt
+想过	114.txt
+搜寻	10.txt
+手机	110.txt
+一般	1001.txt	115.txt
+国际	10.txt	1001.txt	101.txt
+李运秋	105.txt	112.txt
+线	112.txt
+低于	1001.txt	11.txt
+越近	104.txt
+申	111.txt
+争抢	112.txt
+灿烂	114.txt
+万万	106.txt
+比赛结果	115.txt
+表态	1003.txt	106.txt
+一条	110.txt
+称号	114.txt
+笑容满面	111.txt
+于景	113.txt
+定位球	1.txt	112.txt
+国奥	0.txt	1002.txt	101.txt	110.txt	114.txt
+鞭子	10.txt
+一段时间	100.txt	11.txt
+之战	111.txt	115.txt
+’	1000.txt	109.txt
+作出	105.txt	106.txt
+意外	0.txt	112.txt
+平时	114.txt
+个球	115.txt
+巡赛	11.txt
+俄罗斯	110.txt
+而出	105.txt
+最贵	1001.txt
+首战	1.txt
+请	10.txt	109.txt	111.txt
+拘束	114.txt
+不知所措	10.txt
+终	109.txt
+职业生涯	104.txt
+摘下	10.txt
+冲入	104.txt
+炮轰	105.txt
+难度	10.txt	107.txt
+推依力	104.txt
+调查取证	1002.txt
+赵宇	108.txt
+认为	100.txt	1002.txt	107.txt	110.txt	111.txt	114.txt
+辱骂	111.txt
+关系	100.txt	1001.txt	1002.txt
+沉重	1.txt
+日	0.txt	1.txt	100.txt	1000.txt	1001.txt	1003.txt	103.txt	105.txt	106.txt	11.txt	112.txt	113.txt	114.txt	115.txt
+1.81	115.txt
+美	1.txt	11.txt
+欢悦	1.txt
+贾秀全	1001.txt	1002.txt
+作用	107.txt	111.txt
+急	104.txt
+特殊	100.txt
+称	1001.txt	1002.txt
+挂牌	101.txt
+那个	104.txt	110.txt
+时代	1002.txt	106.txt	110.txt
+占据主动	112.txt
+玩	1.txt	104.txt	109.txt	110.txt
+签合同	100.txt
+集体	100.txt	102.txt
+沉浸	10.txt
+打位	10.txt
+左脚	104.txt	105.txt
+自小	114.txt
+譬如	102.txt
+有钱	100.txt
+对雨中	0.txt
+支持	10.txt	1000.txt	103.txt	110.txt	111.txt	114.txt
+莫慧兰	10.txt
+纪录	1001.txt
+再起波澜	106.txt
+逐个	106.txt
+叫	108.txt
+血压	111.txt
+调整	10.txt	105.txt	111.txt
+素质	111.txt
+狂吊	115.txt
+劳动和社会保障部	106.txt
+能量	1003.txt
+约定	101.txt
+晚	1001.txt
+授权	101.txt
+书记	110.txt
+稍逊一筹	104.txt
+潜移默化	107.txt
+不算	114.txt
+75	105.txt
+主队	115.txt
+郑科伟	111.txt
+周一	111.txt
+一起	10.txt	104.txt	106.txt	110.txt	111.txt	115.txt
+进球	1.txt	104.txt	105.txt	112.txt	115.txt
+出手	1001.txt	115.txt
+09	103.txt
+返回	0.txt	1001.txt
+执政	1001.txt
+终于	10.txt	105.txt	106.txt	109.txt
+基础	103.txt	114.txt
+主罚	112.txt
+夸张	110.txt
+没事	1003.txt
+效果	10.txt	105.txt	106.txt
+两人	10.txt	1002.txt	104.txt
+咱们	107.txt	109.txt
+奥古斯塔	11.txt
+愿望	115.txt
+已身	108.txt
+两周	1001.txt	104.txt
+人供	1003.txt
+之星	114.txt
+而后	104.txt
+小球	10.txt	115.txt
+反应	112.txt
+绿洲	111.txt
+家中	114.txt
+资金	106.txt	115.txt
+你	10.txt	1001.txt	101.txt	104.txt	110.txt	111.txt	114.txt
+60	105.txt
+播放	1.txt
+寄予厚望	111.txt
+反击	104.txt	112.txt
+与此同时	100.txt	106.txt
+训斥	114.txt
+兴宁	114.txt
+卡片	10.txt
+前台	10.txt
+专人	1003.txt
+士气	107.txt
+巨	1001.txt
+该队	115.txt
+一部分	109.txt
+今年初	1001.txt
+月工资	110.txt
+备战	1.txt	11.txt	113.txt
+低调	1.txt	104.txt	111.txt
+定论	107.txt
+结果	1.txt	1001.txt	1003.txt	104.txt	106.txt	109.txt	111.txt	114.txt
+第二次	10.txt	112.txt
+也许	115.txt
+耐心	10.txt
+争夺	105.txt
+33	11.txt	112.txt
+国家队	1001.txt	113.txt
+有人	100.txt	109.txt	110.txt
+哪些	1003.txt
+休整	105.txt
+表示歉意	104.txt
+日期	102.txt
+影响	0.txt	107.txt	114.txt
+反腐倡廉	1001.txt
+们	0.txt	1.txt	10.txt	100.txt	102.txt	107.txt	109.txt	114.txt
+黑	1000.txt	1003.txt
+46	105.txt
+足球队	0.txt
+出线	110.txt	113.txt
+待遇	102.txt	103.txt
+送到	11.txt
+连续	1.txt	105.txt	109.txt
+大牌	103.txt
+守住	107.txt
+倒	102.txt
+VS	115.txt
+少	115.txt
+大不如前	110.txt
+球像	105.txt
+谢晖	110.txt
+包身工	100.txt
+来	0.txt	1.txt	100.txt	1001.txt	1002.txt	1003.txt	104.txt	105.txt	106.txt	107.txt	109.txt	110.txt	112.txt	114.txt
+工作进展	100.txt	102.txt
+叫绝	104.txt
+爸爸	114.txt
+初盘	115.txt
+指派	1002.txt
+签约	100.txt	101.txt	102.txt
+立柱	105.txt
+眼看	10.txt	107.txt
+指	111.txt
+裁判	1000.txt	1001.txt	1002.txt	1003.txt	104.txt	115.txt
+尽遣	1.txt
+黑金	1001.txt	1002.txt
+雨水	0.txt
+一帮人	10.txt
+足球	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	103.txt	104.txt	105.txt	109.txt	110.txt	111.txt	114.txt
+保护伞	1001.txt
+接受	1.txt	102.txt	111.txt	114.txt
+配对	11.txt
+达成	106.txt
+面前	103.txt	109.txt	114.txt
+横下	110.txt
+冷静	105.txt	111.txt
+稍弱	107.txt
+300	100.txt
+最终	10.txt	1001.txt	1003.txt	104.txt	105.txt	106.txt	11.txt	110.txt	111.txt	112.txt	113.txt
+将军	1001.txt
+先是	104.txt
+些	105.txt	111.txt
+跟着	109.txt
+最多	1001.txt
+重大	1003.txt
+助教	111.txt
+跟	0.txt	1.txt	1002.txt	106.txt	107.txt	114.txt
+身体	105.txt	114.txt
+对原	1000.txt
+爸妈	114.txt
+造假	102.txt
+中旬	1.txt
+26	101.txt	105.txt	112.txt
+1	1.txt	1001.txt	1002.txt	1003.txt	103.txt	104.txt	105.txt	112.txt	113.txt
+三场	11.txt	113.txt
+博茨瓦纳	1001.txt
+前来	1003.txt	104.txt
+拼抢	104.txt
+崔	1003.txt
+兄弟	104.txt	110.txt
+口号	100.txt	103.txt	110.txt
+密切相关	1002.txt
+标签	1001.txt
+输掉	111.txt	112.txt
+机场	114.txt
+开支	100.txt	107.txt
+最	1.txt	100.txt	1001.txt	1003.txt	105.txt	107.txt	11.txt	110.txt	114.txt
+动摇	114.txt
+校风	114.txt
+1000	100.txt	102.txt	109.txt
+部委	106.txt
+气象预报	0.txt
+17	1.txt	105.txt	112.txt
+思路	104.txt
+说实话	109.txt	110.txt
+水准	111.txt
+草草收场	0.txt
+朵儿	109.txt
+武磊用	105.txt
+了	0.txt	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt	103.txt	104.txt	105.txt	106.txt	107.txt	108.txt	109.txt	11.txt	110.txt	111.txt	112.txt	113.txt	114.txt	115.txt
+埋伏	105.txt	112.txt
+图	104.txt
+第一点	112.txt
+后来	1000.txt	1001.txt	106.txt	109.txt	110.txt	114.txt
+观赏性	104.txt
+频频	105.txt	112.txt
+此	1.txt	106.txt
+程序	100.txt	106.txt
+起码	1002.txt
+不光	102.txt
+放弃	110.txt	114.txt
+得来	114.txt
+VIP	10.txt
+去过	1002.txt
+才能	110.txt	114.txt
+奥运冠军	10.txt
+获奖	10.txt
+不错	1.txt	1001.txt	1002.txt	104.txt	105.txt	107.txt	11.txt	111.txt	112.txt
+曹国俊	106.txt
+真是	107.txt	109.txt
+难	109.txt	11.txt
+放声大哭	10.txt
+调入	1002.txt
+一宿	114.txt
+一句	10.txt	111.txt
+谭宾凉	1003.txt
+不服气	104.txt
+所致	1.txt
+并列	11.txt
+体坛周报	1000.txt	1001.txt	114.txt
+1993	1002.txt
+明显	112.txt	115.txt
+签名	102.txt	104.txt
+传言	115.txt
+导致	0.txt	1003.txt	104.txt
+两位	10.txt	111.txt
+合影	109.txt
+可怕	1001.txt
+过后	11.txt	112.txt
+首发	105.txt	111.txt	112.txt
+合办	1001.txt
+唐奇	105.txt	112.txt
+多种	1000.txt	1001.txt
+手腕	10.txt
+线索	1000.txt	1001.txt	1002.txt
+区域	10.txt
+共计	1.txt
+电子	1002.txt
+真相	1003.txt
+眼神	109.txt
+跑	111.txt	114.txt
+大酒店	1.txt
+抽奖	10.txt
+贯彻落实	1000.txt
+享受	1.txt	10.txt	1002.txt
+不愿	108.txt
+摆好	111.txt
+流向	115.txt
+谢亚龙	1.txt	1000.txt	1001.txt	1002.txt	1003.txt
+增加	100.txt
+的话	100.txt	1001.txt	1003.txt	111.txt	114.txt
+先入为主	1001.txt
+打下	114.txt
+代表	110.txt	114.txt
+门楣	104.txt
+之外	1.txt	1001.txt	1003.txt	111.txt
+这种	0.txt	100.txt	1001.txt	110.txt	114.txt
+梅县	114.txt
+怎样	106.txt
+邀请函	11.txt
+黄雁	107.txt
+权益	102.txt
+去年	1.txt	1003.txt	103.txt	11.txt	114.txt	115.txt
+深感	111.txt
+一旦	106.txt	114.txt
+报道	0.txt	1000.txt	1001.txt	1003.txt
+不少	1003.txt	103.txt	111.txt	112.txt
+没到	100.txt
+股份	109.txt
+最近	100.txt	1001.txt	105.txt	11.txt	114.txt
+赛前	10.txt	111.txt	115.txt
+随后	10.txt	1002.txt	106.txt	11.txt	112.txt
+高声	111.txt
+生存	109.txt
+那些	102.txt	111.txt
+上周末	110.txt
+汪嵩	104.txt
+动手	104.txt
+行家	115.txt
+夜晚	10.txt
+詹姆士	11.txt
+这名	1001.txt
+记者	0.txt	1.txt	1002.txt	1003.txt	104.txt	108.txt	109.txt	110.txt	111.txt	114.txt
+年间	110.txt
+谅解	111.txt
+出身	114.txt
+前锋线	111.txt
+之上	111.txt
+纳尔多	105.txt
+升天	114.txt
+好几	104.txt
+妥善解决	100.txt
+科研	1.txt
+还要	1001.txt	101.txt	107.txt	108.txt
+更是	1.txt	105.txt
+同	1.txt	108.txt	110.txt
+什么	0.txt	100.txt	1001.txt	1002.txt	101.txt	102.txt	106.txt	107.txt	108.txt	110.txt
+决定性	100.txt
+频繁	1001.txt
+服从	102.txt	114.txt
+聊天	10.txt
+日晚	10.txt	101.txt
+没能	1002.txt	109.txt
+当魏群	104.txt
+清理	106.txt
+建议	107.txt
+姑息	1000.txt	1003.txt
+欧洲	1.txt	101.txt	115.txt
+力量	105.txt	107.txt	114.txt
+不了	114.txt
+按时	109.txt
+不同于	100.txt	110.txt
+握起	10.txt
+确认	1003.txt
+开放日	104.txt
+U19	1002.txt
+蔚少辉	1000.txt	1001.txt	1002.txt	1003.txt
+我想	111.txt
+左前卫	104.txt
+陆俊	1001.txt
+笑声	10.txt
+边裁	104.txt
+打出	107.txt	11.txt	111.txt	112.txt	115.txt
+特意	104.txt
+满天飞	105.txt
+48	105.txt	112.txt
+新援	111.txt
+凶狠	104.txt
+后经	106.txt
+俞正声	110.txt
+18	1.txt	100.txt	106.txt	11.txt	112.txt
+球门	105.txt	115.txt
+资格	10.txt
+曲小	103.txt	111.txt
+取得	1002.txt	104.txt	105.txt	107.txt	112.txt
+看成	111.txt
+破坏	105.txt	112.txt
+有机可乘	1.txt
+横射	105.txt
+一家	101.txt
+幕	104.txt
+专门	1001.txt	1003.txt	106.txt
+输人不	111.txt
+场外	112.txt
+放心	109.txt
+地	1.txt	100.txt	104.txt	109.txt	112.txt	114.txt
+笑里藏刀	100.txt
+推到	105.txt
+一文	1000.txt
+小女儿	10.txt
+身上	1.txt	114.txt
+嘉宾	10.txt
+相信	100.txt	108.txt	109.txt	11.txt	111.txt	115.txt
+继续	1000.txt	103.txt	105.txt	109.txt	112.txt
+原本	110.txt
+中期	111.txt
+上演	104.txt	111.txt	112.txt
+指挥	113.txt	114.txt
+会馆	11.txt
+网民	1003.txt
+当有	111.txt
+打电话	114.txt
+风险	115.txt
+对来球	105.txt
+见到	10.txt
+申思为	103.txt
+利润	109.txt	115.txt
+告诉	1.txt	109.txt	110.txt
+森	11.txt
+连籍	102.txt
+观众	115.txt
+韩日	1002.txt
+仍	102.txt
+小鸟	11.txt
+名字	10.txt	101.txt	108.txt
+成败	1.txt
+倒不如	100.txt
+一把手	1001.txt	1002.txt
+信不信	104.txt
+问	110.txt
+赫然	10.txt
+一触	112.txt
+材料	100.txt
+争夺战	104.txt
+梅州	114.txt
+日夜兼程	110.txt
+十分满意	114.txt
+掌管	1002.txt
+娇贵	0.txt
+距	1000.txt
+历程	114.txt
+石滩	11.txt
+周威	112.txt
+说话	114.txt
+则	1000.txt	1002.txt	102.txt	105.txt	111.txt
+张	10.txt	105.txt	111.txt
+参加	0.txt	10.txt	1000.txt	101.txt	11.txt	110.txt
+…	100.txt	1001.txt	1002.txt	104.txt	109.txt
+开发权	1002.txt
+火气	104.txt
+推倒	111.txt
+比赛服	114.txt
+脾气	104.txt
+关乎	1.txt
+时	0.txt	1000.txt	1001.txt	1003.txt	102.txt	103.txt	104.txt	108.txt	109.txt	110.txt	111.txt
+1992	1002.txt	110.txt
+日本	110.txt
+FBR	11.txt
+引发	0.txt
+赌	1000.txt	1002.txt	1003.txt
+很惨	114.txt
+众怒	104.txt
+侦办	1000.txt
+玩法	115.txt
+年底	100.txt
+否认	100.txt
+紧张	10.txt
+相反	1002.txt
+何浩铭	112.txt
+看到	10.txt	104.txt	105.txt	109.txt	111.txt
+金字塔	1002.txt
+经理	103.txt
+领跑	105.txt
+想到	11.txt	110.txt
+视为	11.txt
+末	110.txt
+应用	108.txt
+动荡	113.txt
+职业联赛	1001.txt	110.txt	114.txt
+哈梅	111.txt
+因素	104.txt
+水平	107.txt	111.txt
+头筹	10.txt
+父亲	114.txt
+胜绩	1.txt
+表现	1.txt	104.txt	105.txt	107.txt	11.txt	111.txt	112.txt	114.txt
+最高	100.txt	11.txt
+有队	107.txt
+下课	1002.txt	102.txt	113.txt
+逃过	1002.txt
+更	100.txt	1003.txt	102.txt	103.txt	11.txt	111.txt	114.txt	115.txt
+只有	100.txt	110.txt	114.txt
+物色	108.txt
+小金库	1001.txt
+无懈可击	1.txt
+各种	100.txt	107.txt
+吧	103.txt	106.txt	110.txt
+拔脚	112.txt
+水	115.txt
+张导	113.txt
+找到	1.txt	1001.txt	1003.txt
+压轴	105.txt	111.txt
+网友	115.txt
+瑞典	1.txt
+乱	114.txt
+预兆	1000.txt
+领受	111.txt
+教	10.txt
+掌握	1001.txt	1002.txt
+开具	101.txt
+怒吼	115.txt
+丘	11.txt
+收	1002.txt
+范围	1001.txt	111.txt
+全盘否定	1002.txt
+责任	104.txt	106.txt	110.txt	114.txt
+补强	111.txt
+警方	1000.txt	1001.txt
+日中甲	105.txt	111.txt
+难冲超	107.txt
+公开化	1002.txt
+补射	104.txt	112.txt
+行云流水	104.txt
+休息	0.txt	104.txt	105.txt	112.txt
+多曼来	1.txt
+时候	0.txt	100.txt	1001.txt	1003.txt	106.txt	107.txt	109.txt	110.txt	111.txt	113.txt	114.txt
+36	105.txt
+之一	1.txt	11.txt
+感叹	100.txt
+开幕式	1003.txt
+沸腾	104.txt
+困扰	0.txt
+赌博	1000.txt	1002.txt
+哪儿	0.txt
+头号	1.txt
+八万	105.txt
+差	102.txt	103.txt	109.txt	110.txt	111.txt	114.txt
+那	1.txt	100.txt	108.txt	11.txt	110.txt	111.txt	114.txt	115.txt
+平息	104.txt	106.txt	111.txt
+这件	101.txt	107.txt	114.txt
+把	1.txt	10.txt	100.txt	1001.txt	1002.txt	1003.txt	104.txt	11.txt	112.txt	115.txt
+追问	10.txt
+包括	100.txt	1002.txt	1003.txt	11.txt
+之前	0.txt	1.txt	100.txt	1002.txt	1003.txt	104.txt	11.txt	110.txt	111.txt	113.txt	114.txt
+边缘	109.txt
+球	1003.txt	104.txt	105.txt	11.txt	111.txt	112.txt	115.txt
+出席	103.txt
+球后	105.txt	112.txt
+接手	100.txt	106.txt	113.txt
+手段	1001.txt
+负责人	1003.txt
+坚持	107.txt	109.txt	114.txt
+明智	115.txt
+他	0.txt	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	103.txt	104.txt	106.txt	108.txt	109.txt	11.txt	110.txt	111.txt	114.txt
+威逼	100.txt
+伍兹连	10.txt
+中邦队	103.txt	107.txt	111.txt
+失败	1.txt	109.txt	114.txt
+强化	1.txt
+已然	1003.txt
+爱笑	114.txt
+一片片	10.txt
+风暴	1002.txt	1003.txt
+反贪局	1002.txt
+剥夺	10.txt
+球时	104.txt
+戴菲菲	10.txt
+往上走	113.txt
+辽宁	100.txt	1000.txt	106.txt
+高尔夫球会	10.txt
+等待	1000.txt	101.txt	106.txt
+腾彬	104.txt
+下岗	114.txt
+如期	111.txt
+二中院	106.txt
+迹象	0.txt	1001.txt
+29	0.txt	105.txt	112.txt	113.txt
+这	0.txt	1.txt	10.txt	100.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt	103.txt	104.txt	109.txt	11.txt	110.txt	111.txt	113.txt	114.txt	115.txt
+参赛选手	10.txt
+2008	100.txt	1001.txt	106.txt	11.txt	114.txt
+签证	101.txt
+安静	111.txt
+例行	0.txt
+裁委会	1002.txt
+转正	114.txt
+即便	1002.txt
+近年来	114.txt
+董事长	104.txt	109.txt
+退役	113.txt
+介绍	0.txt	101.txt	103.txt	109.txt
+赢	1.txt	10.txt	111.txt
+交代	1001.txt	1002.txt
+艰难	105.txt	109.txt	112.txt
+迫不得已	109.txt
+产业	1000.txt
+危机	100.txt	107.txt
+张忠	109.txt
+线上	105.txt	112.txt
+上当	105.txt
+其	1001.txt	1002.txt	107.txt
+数十名	1001.txt
+年头	109.txt
+0.3	115.txt
+裁决	106.txt
+积极性	100.txt
+开打	1003.txt	104.txt
+此案	106.txt
+不绝于耳	115.txt
+评价	1.txt	111.txt	114.txt
+不要	114.txt
+社会	10.txt
+接到	1000.txt
+招呼	1000.txt
+任务	1001.txt
+思想	110.txt	112.txt
+国足	1002.txt	110.txt
+什么样	110.txt
+错误	104.txt
+因此	0.txt	1003.txt	104.txt	108.txt	109.txt	111.txt	112.txt	113.txt
+印证	1002.txt	115.txt
+怒斥	104.txt
+造	1002.txt
+”	0.txt	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	103.txt	104.txt	106.txt	107.txt	108.txt	109.txt	110.txt	111.txt	114.txt	115.txt
+感情	109.txt
+举手	104.txt
+十数年	114.txt
+直接	10.txt	1003.txt	103.txt	111.txt
+现在	0.txt	100.txt	1002.txt	1003.txt	101.txt	102.txt	103.txt	106.txt	107.txt	108.txt	109.txt	11.txt	110.txt	113.txt	114.txt
+打人	104.txt
+承诺	106.txt	110.txt
+谁	100.txt	1002.txt	1003.txt	107.txt
+这个	0.txt	1.txt	10.txt	100.txt	1000.txt	1002.txt	1003.txt	103.txt	104.txt	107.txt	109.txt	110.txt	111.txt	114.txt
+英尺	11.txt
+管理层	108.txt
+十年磨一剑	110.txt
+足管	1000.txt	1002.txt
+人数	102.txt
+同声	10.txt
+最重	1.txt
+合作意向	10.txt
+尼尔森	104.txt	105.txt
+感慨	111.txt
+冯萧霆	0.txt
+五人	10.txt
+中路	105.txt	112.txt
+俞	110.txt
+灰色收入	1002.txt
+饱经沧桑	100.txt
+超	105.txt	110.txt	111.txt	112.txt
+精神	109.txt
+阻止	104.txt
+每	1.txt	111.txt
+点	0.txt	1000.txt	103.txt	105.txt	114.txt
+结束	100.txt	104.txt	105.txt	106.txt	11.txt	111.txt	112.txt	113.txt	114.txt	115.txt
+不定	114.txt
+享用	10.txt
+曾	1.txt	1001.txt	102.txt	104.txt	110.txt	111.txt	114.txt
+一名	1.txt	1001.txt	111.txt
+生涯	100.txt	113.txt
+高度	10.txt
+合同	100.txt	101.txt	102.txt
+引援	103.txt	111.txt
+应声	112.txt
+必须	1.txt	100.txt	101.txt	102.txt	107.txt
+人仰马翻	104.txt
+而	0.txt	1.txt	10.txt	100.txt	1000.txt	1002.txt	104.txt	105.txt	106.txt	107.txt	109.txt	110.txt	111.txt	112.txt	115.txt
+标准杆	11.txt
+李宇	109.txt
+抢	1.txt	112.txt
+2001	1.txt
+32	105.txt	115.txt
+独生子	114.txt
+感染	10.txt
+错过	11.txt
+前任	100.txt	1002.txt
+曹阳	114.txt
+证	101.txt
+冲超	100.txt	102.txt	103.txt	105.txt	107.txt	108.txt	109.txt	110.txt	111.txt	112.txt
+印象	1003.txt	114.txt
+拖沓	100.txt
+厚礼	1002.txt
+摆脱	0.txt	105.txt
+块	110.txt
+跌跌撞撞	100.txt
+告终	111.txt
+承办	1001.txt
+多	1.txt	100.txt	1003.txt	106.txt	107.txt	108.txt	109.txt	111.txt	114.txt
+坚信	109.txt
+签字	100.txt	1001.txt	102.txt
+后卫	0.txt	1.txt	104.txt	105.txt	112.txt
+或者说	1002.txt
+租用	1.txt
+变成	112.txt
+上出	103.txt
+顶级	110.txt
+伊拉克	1001.txt
+下去	1003.txt	109.txt
+各地	1001.txt
+扭伤	114.txt
+方式	1.txt	1000.txt	1001.txt	111.txt	114.txt
+戴琳	101.txt
+一同	1003.txt	110.txt	114.txt
+便会	11.txt
+锻炼	112.txt
+静养	0.txt
+他出	114.txt
+拉	104.txt
+2005	1002.txt	106.txt
+配合	1.txt	1000.txt	1003.txt	105.txt	112.txt
+抓	10.txt
+杜威	110.txt
+过关	102.txt
+今年	1.txt	100.txt	103.txt	104.txt	108.txt	109.txt	11.txt	110.txt	112.txt
+强直	109.txt
+我教	10.txt
+年轻	100.txt	102.txt	105.txt	107.txt	111.txt	114.txt
+喊出来	100.txt
+隋言	100.txt
+2000	1002.txt	106.txt
+都市	10.txt
+最好	100.txt	1001.txt	114.txt
+领导班子	1002.txt
+跟不上	110.txt
+管	1001.txt
+数百万	1001.txt
+梳理	1.txt
+立即	0.txt	104.txt
+人缘	10.txt
+个	100.txt	11.txt	111.txt	114.txt	115.txt
+双臂	10.txt
+说明	1000.txt	1001.txt	1003.txt	110.txt
+鸣哨	105.txt
+前后	1002.txt
+很难	1001.txt
+发表	108.txt
+发挥	104.txt	105.txt	107.txt	111.txt	114.txt
+我怕	104.txt
+半边天	110.txt
+慢跑	0.txt
+名将	10.txt	111.txt
+提起	106.txt	109.txt
+满腔热血	109.txt
+经常	101.txt	114.txt
+表示	0.txt	10.txt	1002.txt	1003.txt	103.txt	104.txt	106.txt	108.txt	111.txt	113.txt
+进步	110.txt
+先拔头筹	112.txt
+惨败	112.txt
+老虎	10.txt	11.txt
+温俊勇	1003.txt
+平	1.txt	105.txt	113.txt
+预期	106.txt
+邹忠伟	103.txt
+有些	0.txt	100.txt	1001.txt	1003.txt	103.txt	104.txt	108.txt	110.txt	114.txt
+赛中	10.txt
+颜色	105.txt
+拿分	107.txt
+我们	0.txt	1.txt	100.txt	1002.txt	103.txt	106.txt	107.txt	108.txt	109.txt	110.txt	111.txt	113.txt	114.txt
+治安	1000.txt	1003.txt
+不管	104.txt
+上旬	1.txt
+指令	1003.txt
+民营	109.txt
+大闸	114.txt
+目的	1001.txt
+卷	1003.txt
+开战	105.txt	111.txt	112.txt
+自知理亏	104.txt
+元大球	115.txt
+十分钟	105.txt
+相当	0.txt	1002.txt	1003.txt	113.txt
+创立	10.txt
+晓得	104.txt
+格外	0.txt	111.txt	114.txt
+4	1.txt	1000.txt	104.txt	105.txt	11.txt	112.txt	115.txt
+女士	10.txt
+赞助商	1002.txt	107.txt
+懂得	107.txt	110.txt
+很快	1001.txt	102.txt	112.txt
+本意	101.txt
+从来	114.txt
+保持一致	106.txt
+稀里糊涂	109.txt
+会友	10.txt
+证实	1000.txt	1003.txt
+首先	0.txt	106.txt	111.txt
+慢动作	1.txt
+听说	1002.txt
+无计可施	105.txt
+从	0.txt	1.txt	10.txt	100.txt	1001.txt	1002.txt	104.txt	105.txt	107.txt	11.txt	110.txt	111.txt	112.txt	113.txt	114.txt	115.txt
+质疑	100.txt	106.txt
+老帅	1.txt
+过	10.txt	100.txt	1001.txt	1002.txt	110.txt	111.txt	114.txt
+签	100.txt	102.txt
+冯潇霆	102.txt
+抢眼	104.txt
+八一队	105.txt	111.txt
+高涨	107.txt
+不已	1002.txt
+可怜	110.txt
+徐铮	100.txt	106.txt	107.txt
+惜败	10.txt
+任劳任怨	114.txt
+疑似	111.txt
+剪刀	104.txt
+无法	100.txt	1003.txt	102.txt	106.txt	107.txt
+控股集团	108.txt
+暗中	105.txt
+由于	0.txt	10.txt	1001.txt	104.txt	106.txt	108.txt	111.txt	115.txt
+控制不了	1002.txt
+34	104.txt
+该	1.txt	1003.txt
+经营	1002.txt	110.txt
+颇	10.txt	107.txt
+消息	1000.txt	1001.txt	1002.txt	108.txt	113.txt
+当初	1001.txt	1002.txt	109.txt	110.txt	114.txt
+　	0.txt	1.txt	10.txt	100.txt	1000.txt	1001.txt	1002.txt	1003.txt	101.txt	102.txt	103.txt	104.txt	105.txt	106.txt	107.txt	108.txt	109.txt	11.txt	110.txt	111.txt	112.txt	113.txt	114.txt	115.txt
+停下来	0.txt
+抽签	1.txt
+核心内容	1002.txt
+追	1003.txt	112.txt
+恨	114.txt
+籍	102.txt	111.txt
+这比	110.txt
+一笔	1001.txt
+中场	103.txt	104.txt	105.txt	112.txt
+四名	105.txt	114.txt
+兴趣	10.txt	107.txt
+见效	110.txt
+回归	103.txt	106.txt
+端门	112.txt
+强烈反响	1001.txt
+途中	106.txt
+嘴里	10.txt
+炸弹	1001.txt
+降级	100.txt	109.txt	112.txt
+疑问	115.txt
+抱	0.txt
+必然	1003.txt
+关注	111.txt
+30	1.txt	1001.txt	113.txt	115.txt
+价格	1001.txt
+月份	1001.txt	106.txt
+将会放	115.txt
+拥有	1002.txt
+约翰	10.txt
+领到	102.txt	109.txt
+阵阵	112.txt
+主场	1.txt	1001.txt	1002.txt	103.txt	104.txt	108.txt	111.txt	112.txt	113.txt	115.txt
+淡出	1001.txt
+2004	114.txt
+一条心	110.txt
+安全	0.txt
+鬼使神差	112.txt
+侦查	1003.txt
+开玩笑	10.txt
+已	1000.txt	1003.txt	101.txt	108.txt	109.txt
+打	1.txt	10.txt	1000.txt	1001.txt	1003.txt	101.txt	104.txt	105.txt	107.txt	110.txt	112.txt	113.txt	114.txt
+率领	1001.txt	1002.txt	110.txt
+方法	1001.txt
+无疑	100.txt
+邹凯	10.txt
+海滨	10.txt
+得到	1001.txt	1003.txt	106.txt	111.txt
+外地	1003.txt
+背身	104.txt	112.txt
+受理	106.txt
+于涛	110.txt
+照样	110.txt
+此时	100.txt	104.txt	115.txt
+大林	1003.txt
+变为	115.txt
+震惊	113.txt
+近	1.txt	1002.txt
+凸显	1.txt
+环环相扣	10.txt
+接连	104.txt
+A	110.txt
+铲倒	104.txt
+起来	100.txt	1001.txt	104.txt	107.txt	112.txt	114.txt
+一点儿	109.txt	110.txt
+信任	111.txt
+12	10.txt	1000.txt	105.txt	112.txt
+支撑	1003.txt
+全部	1002.txt
+发烧	0.txt
+意识	1.txt	110.txt
+一刻	114.txt
+接	104.txt	105.txt
+认定	110.txt
+枢纽	114.txt
+好头	111.txt
+示弱	104.txt
+华奥	113.txt
+青岛队	115.txt
+轰动	113.txt
+最初	107.txt
+哪家	101.txt
+31	0.txt	11.txt
+敢	1001.txt
+各个	100.txt
+/	11.txt	115.txt
+多方	107.txt
+背负	106.txt
+起初	1000.txt
+遭人	1002.txt
+宋博	103.txt
+誓言	109.txt	110.txt
+检察机关	1000.txt	1002.txt
+协会	1001.txt
+坚决	1000.txt	1001.txt	1003.txt
+期限	102.txt
+任何	0.txt	1000.txt	101.txt	107.txt
+阵型	105.txt
+一举	10.txt	105.txt
+战平	105.txt	113.txt
+一路	0.txt
+办理	101.txt
+听	109.txt	114.txt
+信息中心	1002.txt
+胸脯	109.txt
+回报	115.txt
+算不算	106.txt
+终场哨	112.txt
+共识	106.txt
+第一个	114.txt
+本场	1003.txt	104.txt	111.txt	112.txt	115.txt
+一事	106.txt
+瑞典人	1.txt
+赛	10.txt	11.txt
+张琳	105.txt	112.txt
+传达	114.txt
+领域	1001.txt	1002.txt	1003.txt
+业余	11.txt
+一下	1003.txt	101.txt	104.txt	109.txt	111.txt
+排名	10.txt	11.txt	113.txt	115.txt
+小时	0.txt	1.txt	114.txt
+依法打击	1000.txt
+总经理	10.txt	100.txt	101.txt	107.txt	108.txt	109.txt	113.txt
+出车祸	106.txt
+国脚	1001.txt	104.txt
+之初	10.txt
+一张	10.txt	102.txt
+很多圈	1002.txt
+杯	101.txt
+不满	1003.txt	102.txt	104.txt
+给出	1003.txt	102.txt
+！	1.txt	100.txt	1002.txt	1003.txt	104.txt	109.txt	110.txt	114.txt
+告到	106.txt
+迈阿密	11.txt
+那年	114.txt
+·	104.txt
+前日	108.txt
+广东	1003.txt	114.txt
+大小球	115.txt
+不断	0.txt
+匆匆	104.txt
+大好	107.txt
+不敌	1.txt	114.txt
+71.51%	1003.txt
+取胜	115.txt
+绝对优势	10.txt
+憧憬	1.txt
+始终	10.txt	109.txt	114.txt
+而南勇	1002.txt
+喜来登	1.txt
+连环套	1001.txt
+全体	103.txt
+正	1.txt	1003.txt	102.txt	113.txt
+较量	111.txt
+心慈手软	112.txt
+之中	10.txt	1001.txt	1003.txt	101.txt	106.txt	113.txt
+黄牌警告	104.txt
+柱出	112.txt
+人生	114.txt
