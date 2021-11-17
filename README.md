@@ -1,1 +1,9 @@
 # MySearchEngine
+
+Boolean_retrieval中实现了布尔检索模型
+
+TF-IDF_retrieval中实现了向量空间模型
+
+Salton_retrieval中实现了Salton模型
+
+将文档数据放在与MySearchEngine同一级文件夹下/news/或/test_news/目录下，即可进行测试
